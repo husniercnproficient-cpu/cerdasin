@@ -1,1 +1,36 @@
 
+[
+  {
+    "pertanyaan": "Berapa hasil 2 + 3?",
+    "opsi": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "jawaban": "B",
+    "gambar": null
+  },
+  {
+    "pertanyaan": "Apa nama binatang ini?",
+    "opsi": {
+      "A": "Kucing",
+      "B": "Anjing",
+      "C": "Kelinci",
+      "D": "Kuda"
+    },
+    "jawaban": "A",
+    "gambar": "https://raw.githubusercontent.com/username/quiz/main/images/kucing.jpg"
+  },
+  {
+    "pertanyaan": "Gambar ini menunjukkan bentuk bangun?",
+    "opsi": {
+      "A": "Lingkaran",
+      "B": "Persegi",
+      "C": "Segitiga",
+      "D": "Trapesium"
+    },
+    "jawaban": "C",
+    "gambar": "https://raw.githubusercontent.com/username/quiz/main/images/segitiga.png"
+  }
+]
