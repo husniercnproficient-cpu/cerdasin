@@ -1,9 +1,9 @@
-
 [
   {
     "pertanyaan": "Apa arti kata 'cerdas'?",
     "opsi": {"A":"Pintar","B":"Lambat","C":"Bodoh","D":"Lelah"},
-    "jawaban": "A"
+    "jawaban": "A",
+    "gambar": "https://cdn.pixabay.com/photo/2017/06/10/07/10/brain-2387495_1280.png"
   },
   {
     "pertanyaan": "Kalimat yang menggunakan kata 'bahagia' dengan benar adalah?",
@@ -13,17 +13,20 @@
       "C":"Bahagia saya tidur.",
       "D":"Rumah bahagia itu"
     },
-    "jawaban": "A"
+    "jawaban": "A",
+    "gambar": "https://cdn.pixabay.com/photo/2014/04/03/11/56/smiley-312383_1280.png"
   },
   {
     "pertanyaan": "Sinonim kata 'besar' adalah …",
     "opsi": {"A":"Kecil","B":"Raksasa","C":"Sedang","D":"Pendek"},
-    "jawaban": "B"
+    "jawaban": "B",
+    "gambar": "https://cdn.pixabay.com/photo/2014/04/02/10/10/balloon-304759_1280.png"
   },
   {
     "pertanyaan": "Antonim kata 'ramai' adalah …",
     "opsi": {"A":"Sepi","B":"Bising","C":"Gemas","D":"Seru"},
-    "jawaban": "A"
+    "jawaban": "A",
+    "gambar": "https://cdn.pixabay.com/photo/2016/03/31/19/11/street-1299697_1280.png"
   },
   {
     "pertanyaan": "Kalimat yang menggunakan kata 'menulis' dengan tepat adalah …",
@@ -33,12 +36,14 @@
       "C":"Saya menulis pada pohon.",
       "D":"Saya menulis di udara."
     },
-    "jawaban": "A"
+    "jawaban": "A",
+    "gambar": "https://cdn.pixabay.com/photo/2017/05/10/23/42/writing-2304256_1280.png"
   },
   {
     "pertanyaan": "Kata baku dari 'nulis' adalah …",
     "opsi": {"A":"Nulis","B":"Menulis","C":"Tulis","D":"Menuliskan"},
-    "jawaban": "B"
+    "jawaban": "B",
+    "gambar": "https://cdn.pixabay.com/photo/2017/05/10/23/42/writing-2304256_1280.png"
   },
   {
     "pertanyaan": "Kalimat tanya yang benar adalah …",
@@ -48,7 +53,8 @@
       "C":"Makan sudah kamu?",
       "D":"Sudah kamu makan?"
     },
-    "jawaban": "A"
+    "jawaban": "A",
+    "gambar": "https://cdn.pixabay.com/photo/2013/07/12/17/03/question-153646_1280.png"
   },
   {
     "pertanyaan": "Kalimat berita yang benar adalah …",
@@ -58,17 +64,20 @@
       "C":"Hari ini libur sekolah?",
       "D":"Sekolah hari ini libur?"
     },
-    "jawaban": "A"
+    "jawaban": "A",
+    "gambar": "https://cdn.pixabay.com/photo/2017/03/16/13/44/school-2151738_1280.png"
   },
   {
     "pertanyaan": "Sinonim kata 'sedih' adalah …",
     "opsi": {"A":"Bahagia","B":"Gembira","C":"Murung","D":"Senang"},
-    "jawaban": "C"
+    "jawaban": "C",
+    "gambar": "https://cdn.pixabay.com/photo/2016/03/31/19/11/girl-1299733_1280.png"
   },
   {
     "pertanyaan": "Antonim kata 'cepat' adalah …",
     "opsi": {"A":"Lambat","B":"Gesit","C":"Pintar","D":"Tinggi"},
-    "jawaban": "A"
+    "jawaban": "A",
+    "gambar": "https://cdn.pixabay.com/photo/2014/04/02/10/10/snail-304755_1280.png"
   },
   {
     "pertanyaan": "Kalimat perintah yang benar adalah …",
@@ -78,7 +87,8 @@
       "C":"Buku itu ambil!",
       "D":"Ambil buku itu saya."
     },
-    "jawaban": "A"
+    "jawaban": "A",
+    "gambar": "https://cdn.pixabay.com/photo/2013/07/12/17/03/hand-153688_1280.png"
   },
   {
     "pertanyaan": "Kalimat larangan yang benar adalah …",
@@ -88,17 +98,20 @@
       "C":"Sembarangan membuang sampah!",
       "D":"Sampah dibuang jangan!"
     },
-    "jawaban": "A"
+    "jawaban": "A",
+    "gambar": "https://cdn.pixabay.com/photo/2012/04/11/13/02/no-28880_1280.png"
   },
   {
     "pertanyaan": "Kata yang tepat untuk mengisi: 'Dia … di taman setiap sore.'",
     "opsi": {"A":"Berlari","B":"Tidur","C":"Makan","D":"Belajar"},
-    "jawaban": "A"
+    "jawaban": "A",
+    "gambar": "https://cdn.pixabay.com/photo/2014/04/02/10/10/running-304758_1280.png"
   },
   {
     "pertanyaan": "Kata yang tepat untuk melengkapi: 'Ibu membeli buah … di pasar.'",
     "opsi": {"A":"Apel","B":"Kursi","C":"Buku","D":"Tas"},
-    "jawaban": "A"
+    "jawaban": "A",
+    "gambar": "https://cdn.pixabay.com/photo/2017/03/16/13/44/apples-2151741_1280.png"
   },
   {
     "pertanyaan": "Kalimat yang menggunakan kata 'menyanyi' dengan benar …",
@@ -108,17 +121,20 @@
       "C":"Siti menyanyi buku di tangan.",
       "D":"Siti menyanyi kursi itu."
     },
-    "jawaban": "A"
+    "jawaban": "A",
+    "gambar": "https://cdn.pixabay.com/photo/2014/04/03/11/56/microphone-312386_1280.png"
   },
   {
     "pertanyaan": "Antonim kata 'panjang' adalah …",
     "opsi": {"A":"Pendek","B":"Lebar","C":"Tinggi","D":"Jauh"},
-    "jawaban": "A"
+    "jawaban": "A",
+    "gambar": "https://cdn.pixabay.com/photo/2016/03/31/19/11/ruler-1299730_1280.png"
   },
   {
     "pertanyaan": "Sinonim kata 'ramah' adalah …",
     "opsi": {"A":"Kasar","B":"Sopan","C":"Jahat","D":"Pendiam"},
-    "jawaban": "B"
+    "jawaban": "B",
+    "gambar": "https://cdn.pixabay.com/photo/2016/03/31/19/11/friendship-1299727_1280.png"
   },
   {
     "pertanyaan": "Kalimat yang menggunakan kata 'berlari' dengan benar adalah …",
@@ -128,7 +144,8 @@
       "C":"Anak-anak berlari di buku.",
       "D":"Anak-anak berlari di kursi."
     },
-    "jawaban": "A"
+    "jawaban": "A",
+    "gambar": "https://cdn.pixabay.com/photo/2014/04/02/10/10/running-304758_1280.png"
   },
   {
     "pertanyaan": "Kalimat yang tepat untuk ucapan terima kasih adalah …",
@@ -138,7 +155,8 @@
       "C":"Apa kabar?",
       "D":"Selamat pagi!"
     },
-    "jawaban": "A"
+    "jawaban": "A",
+    "gambar": "https://cdn.pixabay.com/photo/2016/03/31/19/11/thank-you-1299729_1280.png"
   },
   {
     "pertanyaan": "Kalimat yang menggunakan kata 'belajar' dengan benar adalah …",
@@ -148,6 +166,7 @@
       "C":"Kami belajar meja itu.",
       "D":"Kami belajar di jalan."
     },
-    "jawaban": "A"
+    "jawaban": "A",
+    "gambar": "https://cdn.pixabay.com/photo/2013/07/13/10/29/children-157153_1280.png"
   }
 ]
