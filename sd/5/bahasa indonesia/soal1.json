@@ -1,1 +1,153 @@
 
+[
+  {
+    "pertanyaan": "Apa arti kata 'cerdas'?",
+    "opsi": {"A":"Pintar","B":"Lambat","C":"Bodoh","D":"Lelah"},
+    "jawaban": "A"
+  },
+  {
+    "pertanyaan": "Kalimat yang menggunakan kata 'bahagia' dengan benar adalah?",
+    "opsi": {
+      "A":"Saya merasa bahagia saat bermain dengan teman.",
+      "B":"Saya bahagia rumah itu.",
+      "C":"Bahagia saya tidur.",
+      "D":"Rumah bahagia itu"
+    },
+    "jawaban": "A"
+  },
+  {
+    "pertanyaan": "Sinonim kata 'besar' adalah …",
+    "opsi": {"A":"Kecil","B":"Raksasa","C":"Sedang","D":"Pendek"},
+    "jawaban": "B"
+  },
+  {
+    "pertanyaan": "Antonim kata 'ramai' adalah …",
+    "opsi": {"A":"Sepi","B":"Bising","C":"Gemas","D":"Seru"},
+    "jawaban": "A"
+  },
+  {
+    "pertanyaan": "Kalimat yang menggunakan kata 'menulis' dengan tepat adalah …",
+    "opsi": {
+      "A":"Saya menulis di buku catatan saya.",
+      "B":"Saya menulis di lantai.",
+      "C":"Saya menulis pada pohon.",
+      "D":"Saya menulis di udara."
+    },
+    "jawaban": "A"
+  },
+  {
+    "pertanyaan": "Kata baku dari 'nulis' adalah …",
+    "opsi": {"A":"Nulis","B":"Menulis","C":"Tulis","D":"Menuliskan"},
+    "jawaban": "B"
+  },
+  {
+    "pertanyaan": "Kalimat tanya yang benar adalah …",
+    "opsi": {
+      "A":"Apa kamu sudah makan?",
+      "B":"Kamu sudah makan?",
+      "C":"Makan sudah kamu?",
+      "D":"Sudah kamu makan?"
+    },
+    "jawaban": "A"
+  },
+  {
+    "pertanyaan": "Kalimat berita yang benar adalah …",
+    "opsi": {
+      "A":"Hari ini sekolah libur.",
+      "B":"Libur sekolah hari ini?",
+      "C":"Hari ini libur sekolah?",
+      "D":"Sekolah hari ini libur?"
+    },
+    "jawaban": "A"
+  },
+  {
+    "pertanyaan": "Sinonim kata 'sedih' adalah …",
+    "opsi": {"A":"Bahagia","B":"Gembira","C":"Murung","D":"Senang"},
+    "jawaban": "C"
+  },
+  {
+    "pertanyaan": "Antonim kata 'cepat' adalah …",
+    "opsi": {"A":"Lambat","B":"Gesit","C":"Pintar","D":"Tinggi"},
+    "jawaban": "A"
+  },
+  {
+    "pertanyaan": "Kalimat perintah yang benar adalah …",
+    "opsi": {
+      "A":"Tolong ambil buku itu!",
+      "B":"Saya ambil buku itu.",
+      "C":"Buku itu ambil!",
+      "D":"Ambil buku itu saya."
+    },
+    "jawaban": "A"
+  },
+  {
+    "pertanyaan": "Kalimat larangan yang benar adalah …",
+    "opsi": {
+      "A":"Jangan membuang sampah sembarangan!",
+      "B":"Buang sampah sembarangan!",
+      "C":"Sembarangan membuang sampah!",
+      "D":"Sampah dibuang jangan!"
+    },
+    "jawaban": "A"
+  },
+  {
+    "pertanyaan": "Kata yang tepat untuk mengisi: 'Dia … di taman setiap sore.'",
+    "opsi": {"A":"Berlari","B":"Tidur","C":"Makan","D":"Belajar"},
+    "jawaban": "A"
+  },
+  {
+    "pertanyaan": "Kata yang tepat untuk melengkapi: 'Ibu membeli buah … di pasar.'",
+    "opsi": {"A":"Apel","B":"Kursi","C":"Buku","D":"Tas"},
+    "jawaban": "A"
+  },
+  {
+    "pertanyaan": "Kalimat yang menggunakan kata 'menyanyi' dengan benar …",
+    "opsi": {
+      "A":"Siti suka menyanyi lagu anak-anak.",
+      "B":"Siti menyanyi di lantai rumah.",
+      "C":"Siti menyanyi buku di tangan.",
+      "D":"Siti menyanyi kursi itu."
+    },
+    "jawaban": "A"
+  },
+  {
+    "pertanyaan": "Antonim kata 'panjang' adalah …",
+    "opsi": {"A":"Pendek","B":"Lebar","C":"Tinggi","D":"Jauh"},
+    "jawaban": "A"
+  },
+  {
+    "pertanyaan": "Sinonim kata 'ramah' adalah …",
+    "opsi": {"A":"Kasar","B":"Sopan","C":"Jahat","D":"Pendiam"},
+    "jawaban": "B"
+  },
+  {
+    "pertanyaan": "Kalimat yang menggunakan kata 'berlari' dengan benar adalah …",
+    "opsi": {
+      "A":"Anak-anak berlari di halaman sekolah.",
+      "B":"Anak-anak berlari di meja.",
+      "C":"Anak-anak berlari di buku.",
+      "D":"Anak-anak berlari di kursi."
+    },
+    "jawaban": "A"
+  },
+  {
+    "pertanyaan": "Kalimat yang tepat untuk ucapan terima kasih adalah …",
+    "opsi": {
+      "A":"Terima kasih atas bantuanmu!",
+      "B":"Tolong bantu aku!",
+      "C":"Apa kabar?",
+      "D":"Selamat pagi!"
+    },
+    "jawaban": "A"
+  },
+  {
+    "pertanyaan": "Kalimat yang menggunakan kata 'belajar' dengan benar adalah …",
+    "opsi": {
+      "A":"Kami belajar matematika di kelas.",
+      "B":"Kami belajar di kursi.",
+      "C":"Kami belajar meja itu.",
+      "D":"Kami belajar di jalan."
+    },
+    "jawaban": "A"
+  }
+]
