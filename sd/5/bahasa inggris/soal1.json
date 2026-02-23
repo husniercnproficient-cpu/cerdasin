@@ -1,1 +1,123 @@
 
+[
+  {
+    "pertanyaan": "What is the meaning of 'happy'?",
+    "opsi": {"A":"Sedih","B":"Senang","C":"Marah","D":"Lelah"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "She ___ to school every day.",
+    "opsi": {"A":"go","B":"goes","C":"going","D":"went"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "What is the Indonesian meaning of 'teacher'?",
+    "opsi": {"A":"Dokter","B":"Petani","C":"Guru","D":"Polisi"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "They ___ football in the field.",
+    "opsi": {"A":"play","B":"plays","C":"playing","D":"played"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "What is the opposite of 'big'?",
+    "opsi": {"A":"Tall","B":"Small","C":"Long","D":"Short"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "My mother is cooking in the ___.",
+    "opsi": {"A":"Bedroom","B":"Bathroom","C":"Kitchen","D":"Garden"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "What day comes after Monday?",
+    "opsi": {"A":"Sunday","B":"Tuesday","C":"Friday","D":"Saturday"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "I ___ milk every morning.",
+    "opsi": {"A":"drink","B":"drinks","C":"drinking","D":"drank"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "What is the meaning of 'beautiful'?",
+    "opsi": {"A":"Jelek","B":"Cantik","C":"Kotor","D":"Bersih"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "There are seven days in a ___.",
+    "opsi": {"A":"Month","B":"Year","C":"Week","D":"Hour"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "He ___ his homework in the evening.",
+    "opsi": {"A":"do","B":"does","C":"doing","D":"did"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "What is the Indonesian meaning of 'library'?",
+    "opsi": {"A":"Perpustakaan","B":"Kantin","C":"Lapangan","D":"Kelas"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "We ___ English on Monday.",
+    "opsi": {"A":"study","B":"studies","C":"studying","D":"studied"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "What is the opposite of 'hot'?",
+    "opsi": {"A":"Warm","B":"Cool","C":"Cold","D":"Dry"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "The cat is ___ the table.",
+    "opsi": {"A":"in","B":"on","C":"at","D":"under"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "What is the meaning of 'hospital'?",
+    "opsi": {"A":"Sekolah","B":"Rumah Sakit","C":"Pasar","D":"Bank"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "She has two ___.",
+    "opsi": {"A":"book","B":"books","C":"bookes","D":"booking"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "What color is the sky?",
+    "opsi": {"A":"Blue","B":"Green","C":"Red","D":"Black"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "My father ___ a car.",
+    "opsi": {"A":"have","B":"has","C":"having","D":"had"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "What is the Indonesian meaning of 'friend'?",
+    "opsi": {"A":"Guru","B":"Saudara","C":"Teman","D":"Tetangga"},
+    "jawaban": "C",
+    "gambar": ""
+  }
+]
