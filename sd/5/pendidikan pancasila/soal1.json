@@ -1,1 +1,223 @@
 
+[
+  {
+    "pertanyaan": "Pembukaan UUD 1945 terdiri dari berapa alinea?",
+    "opsi": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "jawaban": "C",
+    "gambar": null
+  },
+  {
+    "pertanyaan": "Pembukaan UUD 1945 merupakan bagian dari?",
+    "opsi": {
+      "A": "Undang-undang biasa",
+      "B": "Konstitusi negara",
+      "C": "Peraturan daerah",
+      "D": "Peraturan sekolah"
+    },
+    "jawaban": "B",
+    "gambar": null
+  },
+  {
+    "pertanyaan": "Pada alinea pertama Pembukaan UUD 1945 terdapat pernyataan bahwa kemerdekaan adalah?",
+    "opsi": {
+      "A": "Hadiah",
+      "B": "Hak segala bangsa",
+      "C": "Kewajiban",
+      "D": "Keuntungan"
+    },
+    "jawaban": "B",
+    "gambar": null
+  },
+  {
+    "pertanyaan": "Alinea pertama Pembukaan UUD 1945 menolak adanya?",
+    "opsi": {
+      "A": "Persahabatan",
+      "B": "Penjajahan",
+      "C": "Perdagangan",
+      "D": "Kerja sama"
+    },
+    "jawaban": "B",
+    "gambar": null
+  },
+  {
+    "pertanyaan": "Alinea kedua Pembukaan UUD 1945 menceritakan tentang?",
+    "opsi": {
+      "A": "Perjuangan bangsa Indonesia",
+      "B": "Pendidikan",
+      "C": "Perdagangan",
+      "D": "Kesehatan"
+    },
+    "jawaban": "A",
+    "gambar": null
+  },
+  {
+    "pertanyaan": "Alinea ketiga Pembukaan UUD 1945 menyebutkan bahwa kemerdekaan Indonesia berkat?",
+    "opsi": {
+      "A": "Kekuatan tentara",
+      "B": "Rahmat Allah Yang Maha Kuasa",
+      "C": "Bantuan negara lain",
+      "D": "Perdagangan"
+    },
+    "jawaban": "B",
+    "gambar": null
+  },
+  {
+    "pertanyaan": "Pada alinea ketiga terdapat kalimat 'Atas berkat rahmat Allah Yang Maha Kuasa'. Hal ini menunjukkan bahwa bangsa Indonesia?",
+    "opsi": {
+      "A": "Percaya kepada Tuhan",
+      "B": "Takut kepada negara lain",
+      "C": "Tidak membutuhkan bantuan",
+      "D": "Tidak bekerja keras"
+    },
+    "jawaban": "A",
+    "gambar": null
+  },
+  {
+    "pertanyaan": "Alinea keempat Pembukaan UUD 1945 berisi tentang?",
+    "opsi": {
+      "A": "Tujuan negara dan dasar negara",
+      "B": "Sejarah kerajaan",
+      "C": "Perdagangan",
+      "D": "Pendidikan sekolah"
+    },
+    "jawaban": "A",
+    "gambar": null
+  },
+  {
+    "pertanyaan": "Dasar negara Indonesia yang tercantum dalam alinea keempat adalah?",
+    "opsi": {
+      "A": "UUD 1945",
+      "B": "Pancasila",
+      "C": "Bendera merah putih",
+      "D": "Lagu Indonesia Raya"
+    },
+    "jawaban": "B",
+    "gambar": null
+  },
+  {
+    "pertanyaan": "Tujuan negara Indonesia yang tercantum dalam Pembukaan UUD 1945 adalah melindungi?",
+    "opsi": {
+      "A": "Para pejabat",
+      "B": "Seluruh rakyat Indonesia",
+      "C": "Para pedagang",
+      "D": "Para guru"
+    },
+    "jawaban": "B",
+    "gambar": null
+  },
+  {
+    "pertanyaan": "Salah satu tujuan negara Indonesia adalah memajukan?",
+    "opsi": {
+      "A": "Kesejahteraan umum",
+      "B": "Perdagangan luar negeri",
+      "C": "Olahraga saja",
+      "D": "Kesenian daerah"
+    },
+    "jawaban": "A",
+    "gambar": null
+  },
+  {
+    "pertanyaan": "Pembukaan UUD 1945 disahkan pada tanggal?",
+    "opsi": {
+      "A": "17 Agustus 1945",
+      "B": "18 Agustus 1945",
+      "C": "19 Agustus 1945",
+      "D": "20 Agustus 1945"
+    },
+    "jawaban": "B",
+    "gambar": null
+  },
+  {
+    "pertanyaan": "Pembukaan UUD 1945 disahkan oleh?",
+    "opsi": {
+      "A": "BPUPKI",
+      "B": "PPKI",
+      "C": "DPR",
+      "D": "MPR"
+    },
+    "jawaban": "B",
+    "gambar": null
+  },
+  {
+    "pertanyaan": "Pembukaan UUD 1945 menjadi dasar bagi?",
+    "opsi": {
+      "A": "Peraturan desa",
+      "B": "Batang tubuh UUD 1945",
+      "C": "Peraturan sekolah",
+      "D": "Peraturan daerah"
+    },
+    "jawaban": "B",
+    "gambar": null
+  },
+  {
+    "pertanyaan": "Kalimat 'Kemerdekaan ialah hak segala bangsa' terdapat pada alinea?",
+    "opsi": {
+      "A": "Pertama",
+      "B": "Kedua",
+      "C": "Ketiga",
+      "D": "Keempat"
+    },
+    "jawaban": "A",
+    "gambar": null
+  },
+  {
+    "pertanyaan": "Salah satu tujuan negara dalam Pembukaan UUD 1945 adalah mencerdaskan?",
+    "opsi": {
+      "A": "Guru",
+      "B": "Kehidupan bangsa",
+      "C": "Petani",
+      "D": "Pedagang"
+    },
+    "jawaban": "B",
+    "gambar": null
+  },
+  {
+    "pertanyaan": "Pembukaan UUD 1945 memiliki kedudukan yang?",
+    "opsi": {
+      "A": "Rendah",
+      "B": "Tidak penting",
+      "C": "Sangat penting",
+      "D": "Sementara"
+    },
+    "jawaban": "C",
+    "gambar": null
+  },
+  {
+    "pertanyaan": "Salah satu tujuan negara adalah ikut melaksanakan ketertiban dunia yang berdasarkan?",
+    "opsi": {
+      "A": "Persaingan",
+      "B": "Keadilan sosial",
+      "C": "Kemerdekaan, perdamaian abadi, dan keadilan sosial",
+      "D": "Perdagangan"
+    },
+    "jawaban": "C",
+    "gambar": null
+  },
+  {
+    "pertanyaan": "Pembukaan UUD 1945 merupakan sumber dari segala?",
+    "opsi": {
+      "A": "Perdagangan",
+      "B": "Sumber hukum negara",
+      "C": "Pelajaran sekolah",
+      "D": "Peraturan desa"
+    },
+    "jawaban": "B",
+    "gambar": null
+  },
+  {
+    "pertanyaan": "Nilai yang terkandung dalam Pembukaan UUD 1945 harus diamalkan oleh?",
+    "opsi": {
+      "A": "Pejabat saja",
+      "B": "Guru saja",
+      "C": "Seluruh rakyat Indonesia",
+      "D": "Tentara saja"
+    },
+    "jawaban": "C",
+    "gambar": null
+  }
+]
