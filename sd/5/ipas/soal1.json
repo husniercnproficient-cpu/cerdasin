@@ -1,1 +1,122 @@
-
+[
+  {
+    "pertanyaan": "Apa fungsi utama hidung dalam sistem pernapasan?",
+    "opsi": {"A":"Mencerna makanan","B":"Menyaring udara yang masuk","C":"Memompa darah","D":"Menggerakkan otot"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Organ yang berfungsi sebagai tempat pertukaran oksigen dan karbon dioksida adalah?",
+    "opsi": {"A":"Jantung","B":"Paru-paru","C":"Lambung","D":"Hati"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Udara yang kita hirup mengandung gas yang penting bagi tubuh yaitu?",
+    "opsi": {"A":"Oksigen","B":"Nitrogen","C":"Karbon","D":"Helium"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Saluran yang menghubungkan hidung dan paru-paru adalah?",
+    "opsi": {"A":"Kerongkongan","B":"Trakea","C":"Usus","D":"Pembuluh darah"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Bernapas dengan menghirup udara disebut?",
+    "opsi": {"A":"Ekspirasi","B":"Inspirasi","C":"Respirasi","D":"Sirkulasi"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Organ pertama dalam sistem pencernaan tempat makanan dikunyah adalah?",
+    "opsi": {"A":"Mulut","B":"Lambung","C":"Usus","D":"Hati"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Fungsi gigi dalam proses pencernaan adalah?",
+    "opsi": {"A":"Menghirup udara","B":"Menghancurkan makanan","C":"Menyaring darah","D":"Memompa darah"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Organ yang menghasilkan cairan empedu adalah?",
+    "opsi": {"A":"Hati","B":"Paru-paru","C":"Jantung","D":"Ginjal"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Tempat penyerapan sari-sari makanan adalah?",
+    "opsi": {"A":"Lambung","B":"Usus halus","C":"Usus besar","D":"Kerongkongan"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Gerakan mendorong makanan di kerongkongan disebut?",
+    "opsi": {"A":"Gerak refleks","B":"Gerak peristaltik","C":"Gerak otot","D":"Gerak lambung"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Pertumbuhan manusia ditandai dengan?",
+    "opsi": {"A":"Berpikir","B":"Bertambah tinggi dan berat badan","C":"Bermain","D":"Belajar"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Tahap pertama kehidupan manusia setelah lahir adalah?",
+    "opsi": {"A":"Remaja","B":"Anak-anak","C":"Bayi","D":"Dewasa"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Faktor yang mempengaruhi pertumbuhan manusia adalah?",
+    "opsi": {"A":"Makanan bergizi","B":"Main game","C":"Menonton TV","D":"Tidur siang"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Agar tubuh tumbuh sehat kita perlu?",
+    "opsi": {"A":"Makan sembarangan","B":"Olahraga dan makan bergizi","C":"Tidur sepanjang hari","D":"Tidak belajar"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Perubahan ukuran tubuh dari kecil menjadi besar disebut?",
+    "opsi": {"A":"Pertumbuhan","B":"Perkembangbiakan","C":"Pergerakan","D":"Pencernaan"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Masa perubahan dari anak-anak menuju dewasa disebut?",
+    "opsi": {"A":"Masa bayi","B":"Masa pubertas","C":"Masa tua","D":"Masa kecil"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Salah satu perubahan pada anak laki-laki saat pubertas adalah?",
+    "opsi": {"A":"Suara menjadi lebih berat","B":"Menjadi bayi","C":"Tinggi badan berkurang","D":"Gigi tanggal semua"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Perubahan pada anak perempuan saat pubertas adalah?",
+    "opsi": {"A":"Menstruasi","B":"Suara berat","C":"Tumbuh kumis","D":"Kulit menjadi biru"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Saat pubertas kita harus menjaga?",
+    "opsi": {"A":"Kebersihan diri","B":"Main sepanjang hari","C":"Tidak mandi","D":"Tidak belajar"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Sikap yang baik saat mengalami pubertas adalah?",
+    "opsi": {"A":"Malu berlebihan","B":"Percaya diri dan menjaga kesehatan","C":"Tidak mau sekolah","D":"Marah-marah"},
+    "jawaban": "B",
+    "gambar": ""
+  }
+]
