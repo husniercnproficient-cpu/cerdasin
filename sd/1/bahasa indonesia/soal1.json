@@ -1,0 +1,122 @@
+[
+  {
+    "pertanyaan": "Huruf pertama dalam abjad adalah ...",
+    "opsi": {"A":"A","B":"B","C":"C","D":"D"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Huruf setelah B adalah ...",
+    "opsi": {"A":"A","B":"C","C":"D","D":"E"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Kata yang tepat untuk gambar kucing adalah ...",
+    "opsi": {"A":"Kucing","B":"Ayam","C":"Ikan","D":"Sapi"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Kata 'ibu' terdiri atas ... huruf.",
+    "opsi": {"A":"2","B":"3","C":"4","D":"5"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Lawan kata 'besar' adalah ...",
+    "opsi": {"A":"Tinggi","B":"Lebar","C":"Kecil","D":"Panjang"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Lawan kata 'panas' adalah ...",
+    "opsi": {"A":"Dingin","B":"Hangat","C":"Terang","D":"Cepat"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Kata sapaan untuk ibu adalah ...",
+    "opsi": {"A":"Ibu","B":"Dia","C":"Kami","D":"Mereka"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Kalimat yang benar diawali dengan huruf ...",
+    "opsi": {"A":"Kecil","B":"Kapital","C":"Miring","D":"Tebal"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Tanda baca yang digunakan di akhir kalimat berita adalah ...",
+    "opsi": {"A":"!","B":"?","C":".","D":","},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Saya makan nasi di ...",
+    "opsi": {"A":"Sekolah","B":"Rumah","C":"Jalan","D":"Sawah"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Hewan yang bisa terbang adalah ...",
+    "opsi": {"A":"Burung","B":"Kucing","C":"Sapi","D":"Kelinci"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Buah yang berwarna kuning adalah ...",
+    "opsi": {"A":"Apel","B":"Pisang","C":"Anggur","D":"Semangka"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Kata yang tepat untuk melengkapi kalimat 'Ayah pergi ke ...' adalah ...",
+    "opsi": {"A":"Kantor","B":"Buku","C":"Pensil","D":"Tas"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Nama hari setelah Senin adalah ...",
+    "opsi": {"A":"Minggu","B":"Selasa","C":"Rabu","D":"Kamis"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Nama bulan pertama dalam satu tahun adalah ...",
+    "opsi": {"A":"Januari","B":"Februari","C":"Maret","D":"April"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Aku suka membaca ...",
+    "opsi": {"A":"Buku","B":"Sepatu","C":"Topi","D":"Meja"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Bagian tubuh untuk melihat adalah ...",
+    "opsi": {"A":"Telinga","B":"Mata","C":"Hidung","D":"Mulut"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Kata 'bola' diawali huruf ...",
+    "opsi": {"A":"A","B":"B","C":"C","D":"D"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Kalimat 'Terima kasih' diucapkan saat ...",
+    "opsi": {"A":"Meminta tolong","B":"Bersyukur atas bantuan","C":"Marah","D":"Tidur"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Kalimat 'Selamat pagi' termasuk ucapan ...",
+    "opsi": {"A":"Perpisahan","B":"Permintaan","C":"Salam","D":"Larangan"},
+    "jawaban": "C",
+    "gambar": ""
+  }
+]
