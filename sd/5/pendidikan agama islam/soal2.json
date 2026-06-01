@@ -1,0 +1,122 @@
+[
+  {
+    "pertanyaan": "Panitia Sembilan dibentuk pada tanggal...",
+    "opsi": {"A":"1 Juni 1945","B":"22 Juni 1945","C":"17 Agustus 1945","D":"29 Mei 1945"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Siapa ketua Panitia Sembilan?",
+    "opsi": {"A":"Mohammad Hatta","B":"Soepomo","C":"Ir. Soekarno","D":"Muhammad Yamin"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Hasil kerja Panitia Sembilan adalah...",
+    "opsi": {"A":"UUD 1945","B":"Proklamasi Kemerdekaan","C":"Piagam Jakarta","D":"Pancasila"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Contoh pengamalan sila ke-3 Pancasila dalam kehidupan sehari-hari adalah...",
+    "opsi": {"A":"Berdoa sebelum makan","B":"Membantu teman yang kesulitan","C":"Menggunakan produk dalam negeri","D":"Menghormati orang tua"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Sila ke-2 Pancasila berbunyi...",
+    "opsi": {"A":"Ketuhanan Yang Maha Esa","B":"Persatuan Indonesia","C":"Kemanusiaan yang Adil dan Beradab","D":"Keadilan Sosial bagi Seluruh Rakyat Indonesia"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Norma yang bersumber dari Tuhan Yang Maha Esa disebut norma...",
+    "opsi": {"A":"Hukum","B":"Kesusilaan","C":"Kesopanan","D":"Agama"},
+    "jawaban": "D",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Sanksi bagi pelanggar norma hukum adalah...",
+    "opsi": {"A":"Dikucilkan masyarakat","B":"Merasa bersalah","C":"Denda atau penjara","D":"Ditegur tetangga"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Mendapatkan pendidikan yang layak merupakan contoh...",
+    "opsi": {"A":"Kewajiban warga negara","B":"Hak warga negara","C":"Norma masyarakat","D":"Aturan sekolah"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Membayar pajak adalah contoh... warga negara.",
+    "opsi": {"A":"Hak","B":"Kebebasan","C":"Kewajiban","D":"Keistimewaan"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Secara astronomis, Indonesia terletak di antara...",
+    "opsi": {"A":"6°LU - 11°LS dan 95°BT - 141°BT","B":"6°LU - 11°LS dan 95°BB - 141°BB","C":"6°LS - 11°LU dan 95°BT - 141°BT","D":"11°LU - 6°LS dan 141°BT - 95°BT"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Secara geografis, Indonesia terletak di antara dua samudra yaitu...",
+    "opsi": {"A":"Samudra Hindia dan Samudra Atlantik","B":"Samudra Pasifik dan Samudra Atlantik","C":"Samudra Hindia dan Samudra Pasifik","D":"Samudra Arktik dan Samudra Hindia"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Bahasa daerah Jawa Barat adalah...",
+    "opsi": {"A":"Bahasa Jawa","B":"Bahasa Sunda","C":"Bahasa Madura","D":"Bahasa Betawi"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Tari Saman berasal dari provinsi...",
+    "opsi": {"A":"Sumatera Barat","B":"Sumatera Utara","C":"Aceh","D":"Riau"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Tari Kecak berasal dari...",
+    "opsi": {"A":"Jawa Tengah","B":"Bali","C":"Nusa Tenggara Barat","D":"Jawa Timur"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Gotong royong mencerminkan pengamalan Pancasila sila ke...",
+    "opsi": {"A":"2","B":"3","C":"4","D":"5"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "BPUPKI singkatan dari...",
+    "opsi": {"A":"Badan Penyelidik Usaha-usaha Persiapan Kemerdekaan Indonesia","B":"Badan Pembentuk Undang-undang Persiapan Kemerdekaan Indonesia","C":"Badan Penyusun Usulan Persiapan Kemerdekaan Indonesia","D":"Badan Pembentuk Usaha Persiapan Kemerdekaan Indonesia"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Rendang adalah makanan tradisional yang berasal dari...",
+    "opsi": {"A":"Jawa Tengah","B":"Sulawesi Selatan","C":"Sumatera Barat","D":"Kalimantan Timur"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Batas wilayah Indonesia di sebelah utara adalah...",
+    "opsi": {"A":"Australia","B":"Malaysia, Singapura, dan Filipina","C":"Papua Nugini","D":"Samudra Hindia"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Skala pada peta berfungsi untuk...",
+    "opsi": {"A":"Menunjukkan arah mata angin","B":"Menggambarkan perbandingan jarak pada peta dengan jarak sebenarnya","C":"Menunjukkan ketinggian suatu wilayah","D":"Menandai batas wilayah negara"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Masyarakat yang tinggal di daerah pesisir umumnya bekerja sebagai...",
+    "opsi": {"A":"Petani","B":"Nelayan","C":"Pedagang","D":"Pegawai kantoran"},
+    "jawaban": "B",
+    "gambar": ""
+  }
+]
