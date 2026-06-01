@@ -1,0 +1,127 @@
+[
+  {
+    "pertanyaan": "Apa arti kata Arab 'غرفة الجلوس'?",
+    "opsi": {"A":"Ruang belajar","B":"Ruang tamu","C":"Perpustakaan","D":"Kantin"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Apa arti kata Arab 'غرفة الدراسة'?",
+    "opsi": {"A":"Ruang belajar","B":"Laboratorium","C":"Kantin","D":"Masjid"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Apa arti kata Arab 'المختبر'?",
+    "opsi": {"A":"Perpustakaan","B":"Kantin","C":"Laboratorium","D":"Kelas"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Apa arti kata Arab 'المكتبة'?",
+    "opsi": {"A":"Perpustakaan","B":"Laboratorium","C":"Ruang tamu","D":"Kantin"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Apa arti kata Arab 'المقصف'?",
+    "opsi": {"A":"Masjid","B":"Kantin","C":"Perpustakaan","D":"Ruang belajar"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Bahasa Arab dari 'ruang tamu' adalah ...",
+    "opsi": {"A":"المكتبة","B":"المختبر","C":"غرفة الجلوس","D":"المقصف"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Bahasa Arab dari 'ruang belajar' adalah ...",
+    "opsi": {"A":"غرفة الدراسة","B":"المقصف","C":"المكتبة","D":"الفصل"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Bahasa Arab dari 'perpustakaan' adalah ...",
+    "opsi": {"A":"المختبر","B":"المكتبة","C":"المقصف","D":"غرفة الجلوس"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Bahasa Arab dari 'laboratorium' adalah ...",
+    "opsi": {"A":"المكتبة","B":"المسجد","C":"المختبر","D":"الفصل"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Bahasa Arab dari 'kantin' adalah ...",
+    "opsi": {"A":"المقصف","B":"المكتبة","C":"المختبر","D":"غرفة الدراسة"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Di manakah kita biasanya membaca buku?",
+    "opsi": {"A":"المقصف","B":"المكتبة","C":"المختبر","D":"غرفة الجلوس"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Di manakah siswa melakukan percobaan?",
+    "opsi": {"A":"المختبر","B":"المقصف","C":"المكتبة","D":"غرفة الجلوس"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Di manakah siswa membeli makanan dan minuman?",
+    "opsi": {"A":"المكتبة","B":"غرفة الدراسة","C":"المقصف","D":"المختبر"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Manakah yang berarti 'perpustakaan'?",
+    "opsi": {"A":"المكتبة","B":"المختبر","C":"المقصف","D":"الفصل"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Manakah yang berarti 'laboratorium'?",
+    "opsi": {"A":"المقصف","B":"المكتبة","C":"المختبر","D":"غرفة الجلوس"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Manakah yang berarti 'kantin'?",
+    "opsi": {"A":"غرفة الدراسة","B":"المقصف","C":"المختبر","D":"المكتبة"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Apa arti kata Arab 'الفصل'?",
+    "opsi": {"A":"Kelas","B":"Kantin","C":"Perpustakaan","D":"Laboratorium"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Bahasa Arab dari 'kelas' adalah ...",
+    "opsi": {"A":"المسجد","B":"المكتبة","C":"الفصل","D":"المقصف"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Apa arti kata Arab 'المسجد'?",
+    "opsi": {"A":"Masjid","B":"Kelas","C":"Kantin","D":"Perpustakaan"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Pasangan yang benar adalah ...",
+    "opsi": {
+      "A":"المكتبة = Kantin",
+      "B":"المقصف = Perpustakaan",
+      "C":"المختبر = Laboratorium",
+      "D":"غرفة الجلوس = Ruang belajar"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  }
+]
