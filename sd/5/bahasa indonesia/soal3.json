@@ -1,0 +1,152 @@
+[
+  {
+    "pertanyaan": "Ide pokok paragraf adalah ...",
+    "opsi": {"A":"Kalimat penjelas","B":"Gagasan utama paragraf","C":"Judul bacaan","D":"Kesimpulan cerita"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Kalimat yang berisi kenyataan dan dapat dibuktikan disebut kalimat ...",
+    "opsi": {"A":"Opini","B":"Perintah","C":"Fakta","D":"Tanya"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Manakah yang termasuk kalimat opini?",
+    "opsi": {
+      "A":"Indonesia merdeka pada tahun 1945",
+      "B":"Air mendidih pada suhu 100°C",
+      "C":"Pantai itu adalah pantai terindah di Indonesia",
+      "D":"Bumi mengelilingi Matahari"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Singkatan dari 'Sekolah Dasar' adalah ...",
+    "opsi": {"A":"SD","B":"SDA","C":"SDR","D":"SKD"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Kata 'pemilu' merupakan contoh ...",
+    "opsi": {"A":"Kata dasar","B":"Singkatan","C":"Akronim","D":"Imbuhan"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Penulisan yang benar adalah ...",
+    "opsi": {
+      "A":"saya tinggal di jakarta",
+      "B":"Saya tinggal di jakarta",
+      "C":"Saya tinggal di Jakarta",
+      "D":"saya tinggal di Jakarta"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Huruf kapital digunakan pada awal ...",
+    "opsi": {"A":"Kata sambung","B":"Kalimat","C":"Kata depan","D":"Imbuhan"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Bagian surat yang berisi nama kota dan tanggal penulisan surat disebut ...",
+    "opsi": {"A":"Salam pembuka","B":"Isi surat","C":"Tanggal surat","D":"Tanda tangan"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Bagian surat yang berisi inti pesan disebut ...",
+    "opsi": {"A":"Isi surat","B":"Alamat surat","C":"Salam penutup","D":"Lampiran"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Tujuan teks pengumuman adalah ...",
+    "opsi": {
+      "A":"Menghibur pembaca",
+      "B":"Memberikan informasi kepada banyak orang",
+      "C":"Menceritakan pengalaman",
+      "D":"Menjelaskan cara kerja sesuatu"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Penulisan angka yang benar dalam huruf adalah ...",
+    "opsi": {
+      "A":"dua puluh lima",
+      "B":"dua-puluh lima",
+      "C":"dua Puluh Lima",
+      "D":"dua puluhlima"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Angka 125 ditulis dengan huruf menjadi ...",
+    "opsi": {
+      "A":"Seratus dua lima",
+      "B":"Seratus dua puluh lima",
+      "C":"Seratus dua puluh lima belas",
+      "D":"Satu ratus dua lima"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Kata 'tertinggi' mengandung imbuhan ...",
+    "opsi": {"A":"me-","B":"ber-","C":"ter-","D":"pe-"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Imbuhan 'ter-' pada kata 'tercepat' menyatakan ...",
+    "opsi": {
+      "A":"Paling",
+      "B":"Sedang",
+      "C":"Akan",
+      "D":"Tidak"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Pantun terdiri atas ... baris dalam satu bait.",
+    "opsi": {"A":"2","B":"3","C":"4","D":"5"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Baris pertama dan kedua dalam pantun disebut ...",
+    "opsi": {"A":"Isi","B":"Sampiran","C":"Penutup","D":"Judul"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Kata 'dan' merupakan contoh ...",
+    "opsi": {"A":"Kata benda","B":"Kata kerja","C":"Kata hubung","D":"Kata sifat"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Kalimat 'Ani belajar karena besok ujian.' menggunakan kata hubung ...",
+    "opsi": {"A":"dan","B":"karena","C":"atau","D":"tetapi"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Kalimat 'Marilah kita menjaga kebersihan sekolah.' termasuk kalimat ...",
+    "opsi": {"A":"Larangan","B":"Harapan","C":"Ajakan","D":"Perintah"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Kalimat 'Jangan membuang sampah sembarangan!' termasuk kalimat ...",
+    "opsi": {"A":"Perintah","B":"Harapan","C":"Ajakan","D":"Larangan"},
+    "jawaban": "D",
+    "gambar": ""
+  }
+]
