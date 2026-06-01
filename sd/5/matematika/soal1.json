@@ -1,1 +1,133 @@
 
+[
+  {
+    "pertanyaan": "Hasil dari 245 + 178 adalah ...",
+    "opsi": {"A":"413","B":"423","C":"433","D":"443"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Hasil dari 750 - 285 adalah ...",
+    "opsi": {"A":"455","B":"465","C":"475","D":"485"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Hasil dari 24 × 6 adalah ...",
+    "opsi": {"A":"124","B":"134","C":"144","D":"154"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Hasil dari 144 ÷ 12 adalah ...",
+    "opsi": {"A":"10","B":"11","C":"12","D":"13"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Bentuk pecahan dari 0,5 adalah ...",
+    "opsi": {"A":"1/4","B":"1/2","C":"3/4","D":"2/3"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Pecahan yang senilai dengan 2/3 adalah ...",
+    "opsi": {"A":"3/6","B":"4/6","C":"5/6","D":"6/9"},
+    "jawaban": "D",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Hasil dari 3/4 + 1/4 adalah ...",
+    "opsi": {"A":"1","B":"1/2","C":"3/4","D":"5/4"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Hasil dari 5/6 - 2/6 adalah ...",
+    "opsi": {"A":"1/6","B":"2/6","C":"3/6","D":"4/6"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Sebuah persegi memiliki sisi 8 cm. Kelilingnya adalah ...",
+    "opsi": {"A":"16 cm","B":"24 cm","C":"32 cm","D":"64 cm"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Luas persegi panjang dengan panjang 12 cm dan lebar 5 cm adalah ...",
+    "opsi": {"A":"17 cm²","B":"34 cm²","C":"60 cm²","D":"120 cm²"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Volume kubus dengan panjang rusuk 4 cm adalah ...",
+    "opsi": {"A":"16 cm³","B":"32 cm³","C":"48 cm³","D":"64 cm³"},
+    "jawaban": "D",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Sudut siku-siku besarnya adalah ...",
+    "opsi": {"A":"45°","B":"90°","C":"120°","D":"180°"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Nilai tempat angka 7 pada bilangan 5.742 adalah ...",
+    "opsi": {"A":"Satuan","B":"Puluhan","C":"Ratusan","D":"Ribuan"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Bilangan 3.560 dibaca ...",
+    "opsi": {
+      "A":"Tiga ratus lima puluh enam",
+      "B":"Tiga ribu lima ratus enam puluh",
+      "C":"Tiga ribu enam ratus lima",
+      "D":"Tiga puluh lima enam nol"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Jika harga sebuah buku Rp12.000, maka harga 3 buku adalah ...",
+    "opsi": {
+      "A":"Rp24.000",
+      "B":"Rp30.000",
+      "C":"Rp36.000",
+      "D":"Rp42.000"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Rina memiliki 2,5 meter pita dan membeli lagi 1,2 meter. Jumlah pita Rina sekarang adalah ...",
+    "opsi": {"A":"3,5 m","B":"3,6 m","C":"3,7 m","D":"3,8 m"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Faktor dari angka 18 adalah ...",
+    "opsi": {"A":"5","B":"7","C":"9","D":"11"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "KPK dari 4 dan 6 adalah ...",
+    "opsi": {"A":"8","B":"10","C":"12","D":"24"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "FPB dari 12 dan 18 adalah ...",
+    "opsi": {"A":"2","B":"3","C":"6","D":"9"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Data nilai: 70, 80, 90, 80, 75. Nilai yang paling sering muncul adalah ...",
+    "opsi": {"A":"70","B":"75","C":"80","D":"90"},
+    "jawaban": "C",
+    "gambar": ""
+  }
+]
