@@ -1,0 +1,5 @@
+{
+  "SD": ["Matematika", "Bahasa Indonesia", "IPAS", "Pendidikan Agama Islam", "Pendidikan Pancasila", "Bahasa Inggris", "PJOK"],
+  "SMP": ["Matematika", "Bahasa Indonesia", "IPA", "IPS", "Bahasa Inggris"],
+  "SMA": ["Matematika", "Fisika", "Kimia", "Biologi", "Bahasa Indonesia", "Bahasa Inggris"]
+}
