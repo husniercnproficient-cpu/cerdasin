@@ -3,13 +3,13 @@
     "pertanyaan": "Apa arti kata 'cerdas'?",
     "opsi": {"A":"Pintar","B":"Lambat","C":"Bodoh","D":"Lelah"},
     "jawaban": "A",
-    "gambar": "https://www.clipartmax.com/png/middle/53-535576_children-writing-clipart.png"
+    "gambar": ""
   },
   {
     "pertanyaan": "Kalimat yang menggunakan kata 'bahagia' dengan benar adalah?",
     "opsi": {"A":"Saya merasa bahagia saat bermain dengan teman.","B":"Saya bahagia rumah itu.","C":"Bahagia saya tidur.","D":"Rumah bahagia itu"},
     "jawaban": "A",
-    "gambar": "https://www.pngkey.com/png/detail/162-1622773_a-group-of-happy-children-running-in-the.png"
+    "gambar": ""
   },
   {
     "pertanyaan": "Sinonim kata 'besar' adalah …",
@@ -27,7 +27,7 @@
     "pertanyaan": "Kalimat yang menggunakan kata 'menulis' dengan tepat adalah …",
     "opsi": {"A":"Saya menulis di buku catatan saya.","B":"Saya menulis di lantai.","C":"Saya menulis pada pohon.","D":"Saya menulis di udara."},
     "jawaban": "A",
-    "gambar": "https://www.clipartmax.com/png/small/432-4323486_kid-writing-png.png"
+    "gambar": ""
   },
   {
     "pertanyaan": "Kata baku dari 'nulis' adalah …",
@@ -45,7 +45,7 @@
     "pertanyaan": "Kalimat berita yang benar adalah …",
     "opsi": {"A":"Hari ini sekolah libur.","B":"Libur sekolah hari ini?","C":"Hari ini libur sekolah?","D":"Sekolah hari ini libur?"},
     "jawaban": "A",
-    "gambar": "https://www.clipartmax.com/png/small/261-2618766_children-learning.png"
+    "gambar": ""
   },
   {
     "pertanyaan": "Sinonim kata 'sedih' adalah …",
@@ -75,7 +75,7 @@
     "pertanyaan": "Kata yang tepat untuk mengisi: 'Dia … di taman setiap sore.'",
     "opsi": {"A":"Berlari","B":"Tidur","C":"Makan","D":"Belajar"},
     "jawaban": "A",
-    "gambar": "https://www.pngkey.com/png/detail/162-1622773_a-group-of-happy-children-running-in-the.png"
+    "gambar": ""
   },
   {
     "pertanyaan": "Kata yang tepat untuk melengkapi: 'Ibu membeli buah … di pasar.'",
@@ -105,7 +105,7 @@
     "pertanyaan": "Kalimat yang menggunakan kata 'berlari' dengan benar adalah …",
     "opsi": {"A":"Anak-anak berlari di halaman sekolah.","B":"Anak-anak berlari di meja.","C":"Anak-anak berlari di buku.","D":"Anak-anak berlari di kursi."},
     "jawaban": "A",
-    "gambar": "https://www.pngkey.com/png/detail/162-1622773_a-group-of-happy-children-running-in-the.png"
+    "gambar": ""
   },
   {
     "pertanyaan": "Kalimat yang tepat untuk ucapan terima kasih adalah …",
@@ -117,6 +117,6 @@
     "pertanyaan": "Kalimat yang menggunakan kata 'belajar' dengan benar adalah …",
     "opsi": {"A":"Kami belajar matematika di kelas.","B":"Kami belajar di kursi.","C":"Kami belajar meja itu.","D":"Kami belajar di jalan."},
     "jawaban": "A",
-    "gambar": "https://www.clipartmax.com/png/middle/261-2618766_children-learning.png"
+    "gambar": ""
   }
 ]
