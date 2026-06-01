@@ -1,0 +1,122 @@
+[
+  {
+    "pertanyaan": "Bagian mata yang berfungsi mengatur banyak sedikitnya cahaya yang masuk adalah ...",
+    "opsi": {"A":"Kornea","B":"Pupil","C":"Retina","D":"Saraf optik"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Bagian mata yang menangkap bayangan benda adalah ...",
+    "opsi": {"A":"Retina","B":"Pupil","C":"Kornea","D":"Kelopak mata"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Dalam jaring-jaring makanan, tumbuhan berperan sebagai ...",
+    "opsi": {"A":"Konsumen","B":"Pengurai","C":"Produsen","D":"Predator"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Hewan yang memakan tumbuhan disebut ...",
+    "opsi": {"A":"Karnivora","B":"Herbivora","C":"Omnivora","D":"Pengurai"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Energi yang berasal dari panas matahari disebut energi ...",
+    "opsi": {"A":"Kimia","B":"Listrik","C":"Surya","D":"Bunyi"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Contoh perubahan energi listrik menjadi energi gerak terjadi pada ...",
+    "opsi": {"A":"Lampu","B":"Kipas angin","C":"Kompor","D":"Baterai"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Lapisan bumi tempat makhluk hidup tinggal adalah ...",
+    "opsi": {"A":"Inti bumi","B":"Mantel bumi","C":"Kerak bumi","D":"Magma"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Bagian bumi yang paling dalam adalah ...",
+    "opsi": {"A":"Kerak bumi","B":"Mantel bumi","C":"Inti bumi","D":"Litosfer"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Organ utama dalam sistem pernapasan manusia adalah ...",
+    "opsi": {"A":"Lambung","B":"Paru-paru","C":"Jantung","D":"Hati"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Udara masuk pertama kali ke tubuh manusia melalui ...",
+    "opsi": {"A":"Kerongkongan","B":"Paru-paru","C":"Hidung","D":"Lambung"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Proses pencernaan makanan dimulai di ...",
+    "opsi": {"A":"Lambung","B":"Usus halus","C":"Mulut","D":"Usus besar"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Fungsi utama usus halus adalah ...",
+    "opsi": {"A":"Mengunyah makanan","B":"Menyerap sari makanan","C":"Mengeluarkan feses","D":"Memompa darah"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Contoh sumber daya alam yang dapat diperbarui adalah ...",
+    "opsi": {"A":"Batu bara","B":"Minyak bumi","C":"Gas alam","D":"Tumbuhan"},
+    "jawaban": "D",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Minyak bumi termasuk sumber daya alam yang ...",
+    "opsi": {"A":"Dapat diperbarui","B":"Tidak dapat diperbarui","C":"Tidak terbatas","D":"Buatan manusia"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Contoh warisan budaya berupa benda adalah ...",
+    "opsi": {"A":"Tari Saman","B":"Lagu daerah","C":"Candi Borobudur","D":"Upacara adat"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Tari tradisional termasuk warisan budaya ...",
+    "opsi": {"A":"Tak benda","B":"Benda","C":"Alam","D":"Buatan"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Peristiwa meluapnya air hingga menutupi daratan disebut ...",
+    "opsi": {"A":"Gempa bumi","B":"Tsunami","C":"Banjir","D":"Longsor"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Penebangan hutan secara liar dapat menyebabkan ...",
+    "opsi": {"A":"Kesuburan tanah meningkat","B":"Banjir dan longsor","C":"Udara lebih bersih","D":"Jumlah hewan bertambah"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Kegiatan ekonomi yang menghasilkan barang dari bahan mentah disebut ...",
+    "opsi": {"A":"Distribusi","B":"Konsumsi","C":"Produksi","D":"Transportasi"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Nelayan yang menangkap ikan di laut melakukan kegiatan ekonomi di bidang ...",
+    "opsi": {"A":"Perdagangan","B":"Pertanian","C":"Perikanan","D":"Industri"},
+    "jawaban": "C",
+    "gambar": ""
+  }
+]
