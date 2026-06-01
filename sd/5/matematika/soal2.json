@@ -1,0 +1,122 @@
+[
+  {
+    "pertanyaan": "Angka 7 pada bilangan 47.382 menempati nilai tempat...",
+    "opsi": {"A":"Ribuan","B":"Puluhan ribu","C":"Ratusan","D":"Puluhan"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Bilangan 305.726 dibaca...",
+    "opsi": {"A":"Tiga ratus lima ribu tujuh ratus dua puluh enam","B":"Tiga puluh lima ribu tujuh ratus dua puluh enam","C":"Tiga ratus lima puluh ribu tujuh ratus dua puluh enam","D":"Tiga ratus lima ribu dua ratus tujuh puluh enam"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Nilai dari angka 4 pada bilangan 234.567 adalah...",
+    "opsi": {"A":"4.000","B":"40.000","C":"400","D":"400.000"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Pecahan 3/4 jika diubah ke persen menjadi...",
+    "opsi": {"A":"60%","B":"70%","C":"75%","D":"80%"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Pecahan mana yang nilainya paling besar?",
+    "opsi": {"A":"1/2","B":"2/5","C":"3/8","D":"3/4"},
+    "jawaban": "D",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Hasil dari 1/3 + 1/4 adalah...",
+    "opsi": {"A":"2/7","B":"7/12","C":"5/12","D":"2/12"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Pecahan 0,6 senilai dengan...",
+    "opsi": {"A":"6/100","B":"3/4","C":"3/5","D":"6/1000"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Sudut yang besarnya tepat 90° disebut sudut...",
+    "opsi": {"A":"Lancip","B":"Tumpul","C":"Siku-siku","D":"Lurus"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Sudut yang besarnya lebih dari 90° dan kurang dari 180° disebut sudut...",
+    "opsi": {"A":"Lancip","B":"Tumpul","C":"Siku-siku","D":"Refleks"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Jarum jam menunjukkan pukul 03.00. Sudut yang terbentuk antara jarum panjang dan jarum pendek adalah...",
+    "opsi": {"A":"60°","B":"90°","C":"120°","D":"180°"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Bangun datar yang memiliki 4 sisi sama panjang dan 4 sudut siku-siku adalah...",
+    "opsi": {"A":"Persegi panjang","B":"Belah ketupat","C":"Persegi","D":"Trapesium"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Segitiga yang ketiga sisinya sama panjang disebut segitiga...",
+    "opsi": {"A":"Siku-siku","B":"Sama kaki","C":"Sembarang","D":"Sama sisi"},
+    "jawaban": "D",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Bangun datar yang hanya memiliki 1 pasang sisi sejajar adalah...",
+    "opsi": {"A":"Persegi","B":"Jajar genjang","C":"Trapesium","D":"Belah ketupat"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Hasil dari 1.245 × 24 adalah...",
+    "opsi": {"A":"28.880","B":"29.880","C":"29.808","D":"28.808"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Hasil dari 7.560 ÷ 45 adalah...",
+    "opsi": {"A":"168","B":"156","C":"172","D":"164"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Sebuah toko menjual 1.250 buah apel. Sudah terjual 876 buah. Sisa apel di toko adalah...",
+    "opsi": {"A":"364","B":"374","C":"384","D":"394"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Ibu membeli 12 kotak coklat. Setiap kotak berisi 24 coklat. Berapa total coklat ibu?",
+    "opsi": {"A":"268","B":"278","C":"288","D":"298"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Piktogram digunakan untuk...",
+    "opsi": {"A":"Menyajikan data menggunakan gambar","B":"Menyajikan data menggunakan batang","C":"Menyajikan data menggunakan lingkaran","D":"Menyajikan data menggunakan garis"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Pada piktogram, setiap gambar bintang mewakili 5 siswa. Jika ada 6 gambar bintang, berarti jumlah siswa adalah...",
+    "opsi": {"A":"25","B":"30","C":"35","D":"40"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Pada diagram batang, sumbu tegak (vertikal) biasanya menunjukkan...",
+    "opsi": {"A":"Nama kategori","B":"Waktu","C":"Jumlah atau nilai data","D":"Jenis data"},
+    "jawaban": "C",
+    "gambar": ""
+  }
+]
