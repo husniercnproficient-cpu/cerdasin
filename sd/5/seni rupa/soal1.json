@@ -1,0 +1,222 @@
+[
+  {
+    "pertanyaan": "Apa yang dimaksud dengan seni rupa?",
+    "opsi": {
+      "A": "Seni yang dapat dilihat dan diraba",
+      "B": "Seni yang hanya dapat didengar",
+      "C": "Seni berbentuk tarian",
+      "D": "Seni berbentuk olahraga"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Contoh karya seni rupa dua dimensi adalah...",
+    "opsi": {
+      "A": "Patung",
+      "B": "Lukisan",
+      "C": "Vas bunga",
+      "D": "Meja kayu"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Karya seni rupa yang memiliki panjang, lebar, dan tinggi disebut...",
+    "opsi": {
+      "A": "Dua dimensi",
+      "B": "Abstrak",
+      "C": "Tiga dimensi",
+      "D": "Dekoratif"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Alat yang biasa digunakan untuk menggambar adalah...",
+    "opsi": {
+      "A": "Pensil",
+      "B": "Panci",
+      "C": "Sapu",
+      "D": "Penggaris besi"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Campuran warna merah dan kuning menghasilkan warna...",
+    "opsi": {
+      "A": "Hijau",
+      "B": "Oranye",
+      "C": "Ungu",
+      "D": "Cokelat"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Campuran warna biru dan kuning menghasilkan warna...",
+    "opsi": {
+      "A": "Hijau",
+      "B": "Merah",
+      "C": "Oranye",
+      "D": "Pink"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Warna merah, kuning, dan biru disebut warna...",
+    "opsi": {
+      "A": "Sekunder",
+      "B": "Primer",
+      "C": "Gelap",
+      "D": "Netral"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Seni membuat bentuk dari tanah liat disebut...",
+    "opsi": {
+      "A": "Menenun",
+      "B": "Mengukir",
+      "C": "Membatik",
+      "D": "Mematung"
+    },
+    "jawaban": "D",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Garis yang memberi kesan tenang adalah garis...",
+    "opsi": {
+      "A": "Zig-zag",
+      "B": "Lengkung",
+      "C": "Horizontal",
+      "D": "Diagonal"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Teknik menempel potongan kertas menjadi gambar disebut...",
+    "opsi": {
+      "A": "Kolase",
+      "B": "Patung",
+      "C": "Membatik",
+      "D": "Mengukir"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Batik merupakan karya seni rupa khas dari negara...",
+    "opsi": {
+      "A": "Thailand",
+      "B": "Indonesia",
+      "C": "Malaysia",
+      "D": "Jepang"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Ornamen pada karya seni bertujuan untuk...",
+    "opsi": {
+      "A": "Memperberat karya",
+      "B": "Mempercantik karya",
+      "C": "Menghapus warna",
+      "D": "Membuat rusak"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Bahan utama untuk membuat patung adalah...",
+    "opsi": {
+      "A": "Tanah liat",
+      "B": "Air",
+      "C": "Kertas tipis",
+      "D": "Benang"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Poster biasanya digunakan untuk...",
+    "opsi": {
+      "A": "Tidur",
+      "B": "Menghias makanan",
+      "C": "Menyampaikan informasi",
+      "D": "Mencuci pakaian"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Kegiatan menggambar dengan menggunakan cat air disebut teknik...",
+    "opsi": {
+      "A": "Aquarel",
+      "B": "Mozaik",
+      "C": "Ukir",
+      "D": "Anyam"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Karya seni dari potongan keramik atau kaca disebut...",
+    "opsi": {
+      "A": "Kolase",
+      "B": "Mozaik",
+      "C": "Sketsa",
+      "D": "Lukisan"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Sketsa dibuat sebelum menggambar agar...",
+    "opsi": {
+      "A": "Lebih sulit",
+      "B": "Tidak beraturan",
+      "C": "Mempermudah menggambar",
+      "D": "Menghapus gambar"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Kesan gelap terang dalam gambar disebut...",
+    "opsi": {
+      "A": "Tekstur",
+      "B": "Warna",
+      "C": "Komposisi",
+      "D": "Arsir"
+    },
+    "jawaban": "D",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Anyaman biasanya dibuat dari bahan...",
+    "opsi": {
+      "A": "Batu",
+      "B": "Rotan",
+      "C": "Besi",
+      "D": "Kaca"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Menggambar pemandangan termasuk karya seni rupa...",
+    "opsi": {
+      "A": "Dua dimensi",
+      "B": "Tiga dimensi",
+      "C": "Pertunjukan",
+      "D": "Kerajinan logam"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  }
+]
