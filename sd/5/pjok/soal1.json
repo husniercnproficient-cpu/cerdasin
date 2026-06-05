@@ -1,0 +1,122 @@
+[
+  {
+    "pertanyaan": "Tujuan utama melakukan pemanasan sebelum berolahraga adalah ...",
+    "opsi": {"A":"Membuat tubuh cepat lelah","B":"Meningkatkan risiko cedera","C":"Menyiapkan tubuh untuk aktivitas fisik","D":"Mengurangi kekuatan otot"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Gerakan berlari, berjalan, dan melompat termasuk gerak dasar ...",
+    "opsi": {"A":"Nonlokomotor","B":"Manipulatif","C":"Lokomotor","D":"Stabilitas"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Contoh gerak nonlokomotor adalah ...",
+    "opsi": {"A":"Berlari","B":"Melompat","C":"Membungkuk","D":"Berjalan"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Gerakan melempar dan menangkap bola termasuk gerak ...",
+    "opsi": {"A":"Lokomotor","B":"Manipulatif","C":"Nonlokomotor","D":"Statis"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Dalam permainan sepak bola, bagian tubuh yang tidak boleh digunakan untuk memainkan bola adalah ...",
+    "opsi": {"A":"Kaki","B":"Dada","C":"Kepala","D":"Tangan"},
+    "jawaban": "D",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Jumlah pemain inti dalam satu regu sepak bola adalah ...",
+    "opsi": {"A":"5 orang","B":"7 orang","C":"11 orang","D":"12 orang"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Teknik dasar menggiring bola dalam permainan bola basket disebut ...",
+    "opsi": {"A":"Passing","B":"Dribbling","C":"Shooting","D":"Blocking"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Permainan bulu tangkis menggunakan alat berupa ...",
+    "opsi": {"A":"Tongkat","B":"Bet","C":"Raket","D":"Sarung tangan"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Sikap yang harus dimiliki saat mengikuti pertandingan olahraga adalah ...",
+    "opsi": {"A":"Sportif","B":"Curang","C":"Sombong","D":"Egois"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Senam lantai biasanya dilakukan di atas ...",
+    "opsi": {"A":"Pasir","B":"Matras","C":"Rumput","D":"Meja"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Gerakan berguling ke depan dalam senam disebut ...",
+    "opsi": {"A":"Handstand","B":"Kayang","C":"Roll depan","D":"Sikap lilin"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Gaya renang yang gerakannya menyerupai katak adalah ...",
+    "opsi": {"A":"Gaya bebas","B":"Gaya punggung","C":"Gaya kupu-kupu","D":"Gaya dada"},
+    "jawaban": "D",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Sebelum masuk ke kolam renang, peserta didik sebaiknya melakukan ...",
+    "opsi": {"A":"Pemanasan","B":"Tidur","C":"Makan banyak","D":"Belajar"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Latihan yang dilakukan secara teratur dapat meningkatkan ...",
+    "opsi": {"A":"Penyakit","B":"Kebugaran jasmani","C":"Kemalasan","D":"Kelelahan"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Salah satu manfaat olahraga bagi tubuh adalah ...",
+    "opsi": {"A":"Melemahkan otot","B":"Menurunkan kesehatan","C":"Menjaga kebugaran tubuh","D":"Mengurangi semangat belajar"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Makanan yang baik untuk menjaga kesehatan tubuh adalah makanan yang ...",
+    "opsi": {"A":"Bergizi seimbang","B":"Tinggi gula saja","C":"Tinggi garam saja","D":"Banyak pewarna"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Kegiatan mencuci tangan dengan sabun merupakan bagian dari ...",
+    "opsi": {"A":"Permainan","B":"Perlombaan","C":"Pola hidup bersih dan sehat","D":"Olahraga berat"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Pendinginan dilakukan setelah olahraga dengan tujuan ...",
+    "opsi": {"A":"Meningkatkan detak jantung","B":"Mengembalikan kondisi tubuh secara bertahap","C":"Membuat tubuh lebih tegang","D":"Menambah kecepatan lari"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Saat teman mengalami kesulitan dalam aktivitas olahraga, sikap yang tepat adalah ...",
+    "opsi": {"A":"Mengejek","B":"Membiarkan","C":"Membantu dan memberi semangat","D":"Menertawakan"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Tujuan utama pendidikan jasmani, olahraga, dan kesehatan (PJOK) adalah ...",
+    "opsi": {"A":"Meningkatkan kebugaran, keterampilan gerak, dan kesehatan","B":"Menjadikan siswa atlet profesional","C":"Mengisi waktu luang saja","D":"Mengurangi aktivitas fisik"},
+    "jawaban": "A",
+    "gambar": ""
+  }
+]
