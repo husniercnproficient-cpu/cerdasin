@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kebijakan Privasi — Cerdasin</title>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:wght@400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #f7f5f0;
+      --surface: #ffffff;
+      --text: #1a1a18;
+      --muted: #6b6b63;
+      --accent: #2d6a4f;
+      --accent-light: #e8f4ef;
+      --border: #e2dfd6;
+      --radius: 12px;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'DM Sans', sans-serif;
+      font-size: 16px;
+      line-height: 1.75;
+      min-height: 100vh;
+    }
+
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 2rem 0;
+    }
+
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 0 1.5rem;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 1rem;
+    }
+
+    .brand-icon {
+      width: 40px;
+      height: 40px;
+      background: var(--accent);
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .brand-icon svg {
+      width: 22px;
+      height: 22px;
+      fill: #fff;
+    }
+
+    .brand-name {
+      font-family: 'DM Serif Display', serif;
+      font-size: 22px;
+      color: var(--text);
+    }
+
+    .lang-toggle {
+      display: flex;
+      gap: 8px;
+    }
+
+    .lang-btn {
+      padding: 6px 16px;
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      background: transparent;
+      font-size: 13px;
+      font-family: 'DM Sans', sans-serif;
+      color: var(--muted);
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .lang-btn.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+
+    main {
+      padding: 3rem 0 4rem;
+    }
+
+    .doc-header {
+      margin-bottom: 2.5rem;
+    }
+
+    .doc-tag {
+      display: inline-block;
+      background: var(--accent-light);
+      color: var(--accent);
+      font-size: 12px;
+      font-weight: 500;
+      padding: 4px 12px;
+      border-radius: 20px;
+      margin-bottom: 1rem;
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+    }
+
+    h1 {
+      font-family: 'DM Serif Display', serif;
+      font-size: 36px;
+      font-weight: 400;
+      line-height: 1.25;
+      color: var(--text);
+      margin-bottom: 0.75rem;
+    }
+
+    .meta {
+      font-size: 14px;
+      color: var(--muted);
+    }
+
+    .meta span { margin-right: 1.5rem; }
+
+    .intro-box {
+      background: var(--accent-light);
+      border-left: 3px solid var(--accent);
+      border-radius: 0 var(--radius) var(--radius) 0;
+      padding: 1rem 1.25rem;
+      margin-bottom: 2.5rem;
+      font-size: 15px;
+      color: #1a3d2e;
+    }
+
+    .section {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .section-num {
+      font-size: 12px;
+      font-weight: 500;
+      color: var(--accent);
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      margin-bottom: 6px;
+    }
+
+    h2 {
+      font-family: 'DM Serif Display', serif;
+      font-size: 19px;
+      font-weight: 400;
+      color: var(--text);
+      margin-bottom: 0.6rem;
+    }
+
+    p {
+      font-size: 15px;
+      color: #3a3a34;
+      line-height: 1.75;
+    }
+
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 2rem 0;
+      text-align: center;
+      font-size: 13px;
+      color: var(--muted);
+    }
+
+    footer a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    .lang-content { display: none; }
+    .lang-content.visible { display: block; }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:1rem;">
+      <div class="brand">
+        <div class="brand-icon">
+          <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z"/>
+          </svg>
+        </div>
+        <span class="brand-name">Cerdasin</span>
+      </div>
+      <div class="lang-toggle">
+        <button class="lang-btn active" onclick="setLang('id', this)">🇮🇩 Indonesia</button>
+        <button class="lang-btn" onclick="setLang('en', this)">🇬🇧 English</button>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main>
+  <div class="container">
+
+    <!-- BAHASA INDONESIA -->
+    <div class="lang-content visible" id="lang-id">
+      <div class="doc-header">
+        <span class="doc-tag">Dokumen Legal</span>
+        <h1>Kebijakan Privasi</h1>
+        <p class="meta">
+          <span>Berlaku sejak: 6 Juni 2026</span>
+          <span>Pengembang: Gatrix</span>
+        </p>
+      </div>
+
+      <div class="intro-box">
+        Privasi Anda penting bagi kami. Kebijakan ini menjelaskan secara transparan bagaimana aplikasi Cerdasin menangani data pengguna.
+      </div>
+
+      <div class="section">
+        <div class="section-num">Pasal 1</div>
+        <h2>Informasi yang Kami Kumpulkan</h2>
+        <p>Aplikasi Cerdasin <strong>tidak mengumpulkan, menyimpan, atau membagikan data pribadi pengguna</strong> dalam bentuk apapun. Kami tidak meminta nama, alamat email, nomor telepon, lokasi, atau informasi identitas lainnya.</p>
+      </div>
+
+      <div class="section">
+        <div class="section-num">Pasal 2</div>
+        <h2>Penggunaan Data Perangkat</h2>
+        <p>Aplikasi ini tidak mengakses data perangkat seperti kamera, mikrofon, kontak, galeri foto, atau sensor lainnya kecuali fitur yang diperlukan secara fungsional dan telah diizinkan secara eksplisit oleh pengguna.</p>
+      </div>
+
+      <div class="section">
+        <div class="section-num">Pasal 3</div>
+        <h2>Layanan Pihak Ketiga</h2>
+        <p>Cerdasin tidak mengintegrasikan layanan analitik, iklan, atau pelacakan pihak ketiga yang dapat mengumpulkan data pengguna.</p>
+      </div>
+
+      <div class="section">
+        <div class="section-num">Pasal 4</div>
+        <h2>Keamanan</h2>
+        <p>Karena kami tidak mengumpulkan data pengguna, tidak ada risiko kebocoran data pribadi dari sisi kami. Keamanan perangkat pengguna tetap menjadi tanggung jawab pengguna masing-masing.</p>
+      </div>
+
+      <div class="section">
+        <div class="section-num">Pasal 5</div>
+        <h2>Privasi Anak-Anak</h2>
+        <p>Aplikasi Cerdasin ditujukan untuk semua kalangan usia. Kami tidak secara sadar mengumpulkan informasi pribadi dari anak-anak di bawah usia 13 tahun. Karena kami memang tidak mengumpulkan data apapun, aplikasi ini aman digunakan oleh semua usia.</p>
+      </div>
+
+      <div class="section">
+        <div class="section-num">Pasal 6</div>
+        <h2>Perubahan Kebijakan Privasi</h2>
+        <p>Kami dapat memperbarui Kebijakan Privasi ini dari waktu ke waktu. Perubahan akan diberitahukan melalui pembaruan aplikasi atau halaman ini. Kami menyarankan pengguna untuk meninjau halaman ini secara berkala.</p>
+      </div>
+
+      <div class="section">
+        <div class="section-num">Pasal 7</div>
+        <h2>Hubungi Kami</h2>
+        <p>Jika Anda memiliki pertanyaan mengenai Kebijakan Privasi ini, silakan hubungi kami:<br><br>
+        <strong>Gatrix</strong><br>
+        Email: <a href="mailto:gatrix.info@gmail.com" style="color:#2d6a4f;">gatrix.info@gmail.com</a></p>
+      </div>
+    </div>
+
+    <!-- ENGLISH -->
+    <div class="lang-content" id="lang-en">
+      <div class="doc-header">
+        <span class="doc-tag">Legal Document</span>
+        <h1>Privacy Policy</h1>
+        <p class="meta">
+          <span>Effective date: June 6, 2026</span>
+          <span>Developer: Gatrix</span>
+        </p>
+      </div>
+
+      <div class="intro-box">
+        Your privacy matters to us. This policy transparently explains how the Cerdasin app handles user data.
+      </div>
+
+      <div class="section">
+        <div class="section-num">Section 1</div>
+        <h2>Information We Collect</h2>
+        <p>The Cerdasin app <strong>does not collect, store, or share any personal user data</strong> in any form. We do not request names, email addresses, phone numbers, location, or any other identifying information.</p>
+      </div>
+
+      <div class="section">
+        <div class="section-num">Section 2</div>
+        <h2>Device Data Usage</h2>
+        <p>This app does not access device data such as camera, microphone, contacts, photo gallery, or other sensors, except for features that are functionally necessary and have been explicitly permitted by the user.</p>
+      </div>
+
+      <div class="section">
+        <div class="section-num">Section 3</div>
+        <h2>Third-Party Services</h2>
+        <p>Cerdasin does not integrate any analytics, advertising, or third-party tracking services that may collect user data.</p>
+      </div>
+
+      <div class="section">
+        <div class="section-num">Section 4</div>
+        <h2>Security</h2>
+        <p>Since we do not collect user data, there is no risk of personal data leakage on our end. The security of users' devices remains the responsibility of each user.</p>
+      </div>
+
+      <div class="section">
+        <div class="section-num">Section 5</div>
+        <h2>Children's Privacy</h2>
+        <p>The Cerdasin app is designed for all age groups. We do not knowingly collect personal information from children under the age of 13. Since we do not collect any data at all, this app is safe for users of all ages.</p>
+      </div>
+
+      <div class="section">
+        <div class="section-num">Section 6</div>
+        <h2>Changes to This Privacy Policy</h2>
+        <p>We may update this Privacy Policy from time to time. Changes will be communicated through app updates or this page. We encourage users to review this page periodically.</p>
+      </div>
+
+      <div class="section">
+        <div class="section-num">Section 7</div>
+        <h2>Contact Us</h2>
+        <p>If you have any questions about this Privacy Policy, please contact us:<br><br>
+        <strong>Gatrix</strong><br>
+        Email: <a href="mailto:gatrix.info@gmail.com" style="color:#2d6a4f;">gatrix.info@gmail.com</a></p>
+      </div>
+    </div>
+
+  </div>
+</main>
+
+<footer>
+  <div class="container">
+    <p>&copy; 2026 Gatrix · Cerdasin &nbsp;·&nbsp; <a href="mailto:gatrix.info@gmail.com">gatrix.info@gmail.com</a></p>
+  </div>
+</footer>
+
+<script>
+  function setLang(lang, btn) {
+    document.querySelectorAll('.lang-content').forEach(el => el.classList.remove('visible'));
+    document.getElementById('lang-' + lang).classList.add('visible');
+    document.querySelectorAll('.lang-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+  }
+</script>
+
+</body>
+</html>
