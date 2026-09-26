@@ -549,49 +549,5 @@
     },
     "jawaban": "A",
     "gambar": ""
-  },
-  {
-    "pertanyaan": "Jika ada teman yang berbeda agama, kita harus...",
-    "opsi": {
-      "A": "Memaksanya mengikuti agama kita",
-      "B": "Menghormati keyakinannya",
-      "C": "Menjauhinya",
-      "D": "Mengejek cara ibadahnya"
-    },
-    "jawaban": "B",
-    "gambar": ""
-  },
-  {
-    "pertanyaan": "Nilai Pancasila sebaiknya tidak hanya dihafalkan, tetapi juga...",
-    "opsi": {
-      "A": "Diamalkan dalam kehidupan sehari-hari",
-      "B": "Ditulis berulang kali",
-      "C": "Dijadikan hiasan",
-      "D": "Dihafalkan tanpa dipahami"
-    },
-    "jawaban": "A",
-    "gambar": ""
-  },
-  {
-    "pertanyaan": "Sikap bekerja sama membersihkan kelas mencerminkan nilai...",
-    "opsi": {
-      "A": "Gotong royong",
-      "B": "Keegoisan",
-      "C": "Persaingan",
-      "D": "Permusuhan"
-    },
-    "jawaban": "A",
-    "gambar": ""
-  },
-  {
-    "pertanyaan": "Pancasila sebagai pandangan hidup bangsa berarti setiap warga negara hendaknya...",
-    "opsi": {
-      "A": "Menjadikan nilai Pancasila sebagai pedoman hidup",
-      "B": "Mengabaikan nilai Pancasila",
-      "C": "Mementingkan diri sendiri",
-      "D": "Menolak keberagaman"
-    },
-    "jawaban": "A",
-    "gambar": ""
-  }
+  }  
 ]
