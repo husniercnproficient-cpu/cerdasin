@@ -1,1 +1,222 @@
-
+[
+  {
+    "pertanyaan": "Hukum bacaan nun bertasydid (نّ) disebut...",
+    "opsi": {
+      "A": "Idgham",
+      "B": "Ghunnah",
+      "C": "Ikhfa",
+      "D": "Iqlab"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Hukum bacaan mim bertasydid (مّ) disebut...",
+    "opsi": {
+      "A": "Ghunnah",
+      "B": "Qalqalah",
+      "C": "Mad",
+      "D": "Izhar"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Bacaan ghunnah pada nun tasydid dan mim tasydid dibaca selama...",
+    "opsi": {
+      "A": "1 harakat",
+      "B": "2 harakat",
+      "C": "3 harakat",
+      "D": "4 harakat"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Ghunnah adalah bacaan yang mengeluarkan suara melalui...",
+    "opsi": {
+      "A": "Lidah",
+      "B": "Tenggorokan",
+      "C": "Rongga hidung",
+      "D": "Bibir"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Lafaz إِنَّ mengandung hukum bacaan...",
+    "opsi": {
+      "A": "Ghunnah",
+      "B": "Qalqalah",
+      "C": "Iqlab",
+      "D": "Mad"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Lafaz ثُمَّ mengandung bacaan ghunnah karena terdapat...",
+    "opsi": {
+      "A": "Nun sukun",
+      "B": "Mim tasydid",
+      "C": "Lam tasydid",
+      "D": "Qaf sukun"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Surah Al-Insyirah terdiri atas ... ayat.",
+    "opsi": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Surah Al-Insyirah merupakan surah ke-...",
+    "opsi": {
+      "A": "93",
+      "B": "94",
+      "C": "95",
+      "D": "96"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Surah Al-Insyirah termasuk golongan surah...",
+    "opsi": {
+      "A": "Madaniyah",
+      "B": "Makkiyah",
+      "C": "Syamiyah",
+      "D": "Baghdadiyah"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Arti dari Al-Insyirah adalah...",
+    "opsi": {
+      "A": "Waktu malam",
+      "B": "Kelapangan",
+      "C": "Pertolongan",
+      "D": "Kemenangan"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Menurut Surah Al-Insyirah, sesungguhnya bersama kesulitan terdapat...",
+    "opsi": {
+      "A": "Kesedihan",
+      "B": "Kekayaan",
+      "C": "Kemudahan",
+      "D": "Kegagalan"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Sikap yang sesuai dengan kandungan Surah Al-Insyirah ketika menghadapi kesulitan adalah...",
+    "opsi": {
+      "A": "Mudah menyerah",
+      "B": "Tetap sabar dan terus berusaha",
+      "C": "Menyalahkan orang lain",
+      "D": "Menghindari tanggung jawab"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Setelah selesai mengerjakan suatu urusan, menurut Surah Al-Insyirah kita dianjurkan untuk...",
+    "opsi": {
+      "A": "Bersungguh-sungguh mengerjakan urusan lainnya",
+      "B": "Berhenti berusaha",
+      "C": "Bermain sepanjang hari",
+      "D": "Mengeluh"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Al-Waliyy merupakan salah satu Asmaul Husna yang berarti Allah Maha...",
+    "opsi": {
+      "A": "Adil",
+      "B": "Terpuji",
+      "C": "Melindungi atau Menolong",
+      "D": "Sabar"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Al-Hamid berarti Allah Yang Maha...",
+    "opsi": {
+      "A": "Adil",
+      "B": "Terpuji",
+      "C": "Sabar",
+      "D": "Melindungi"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Al-'Adl berarti Allah Yang Maha...",
+    "opsi": {
+      "A": "Sabar",
+      "B": "Menolong",
+      "C": "Terpuji",
+      "D": "Adil"
+    },
+    "jawaban": "D",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "As-Sabur berarti Allah Yang Maha...",
+    "opsi": {
+      "A": "Sabar",
+      "B": "Adil",
+      "C": "Terpuji",
+      "D": "Melindungi"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Contoh perilaku meneladani sifat Al-'Adl adalah...",
+    "opsi": {
+      "A": "Membeda-bedakan teman",
+      "B": "Bersikap adil kepada semua orang",
+      "C": "Mengambil hak orang lain",
+      "D": "Membela teman walaupun salah"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Contoh perilaku meneladani sifat As-Sabur adalah...",
+    "opsi": {
+      "A": "Mudah marah",
+      "B": "Mudah menyerah",
+      "C": "Sabar ketika menghadapi kesulitan",
+      "D": "Membalas kesalahan orang lain"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Ketika mendapatkan nikmat dari Allah, sikap yang sesuai dengan Asmaul Husna Al-Hamid adalah...",
+    "opsi": {
+      "A": "Menyombongkan diri",
+      "B": "Tidak peduli",
+      "C": "Bersyukur dan memuji Allah",
+      "D": "Meremehkan orang lain"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  }
+]
