@@ -1,1 +1,597 @@
 
+[
+  {
+    "pertanyaan": "Sikap menghormati teman yang sedang beribadah merupakan pengamalan sila ke-...",
+    "opsi": {
+      "A": "Satu",
+      "B": "Dua",
+      "C": "Tiga",
+      "D": "Empat"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Bunyi sila pertama Pancasila adalah...",
+    "opsi": {
+      "A": "Kemanusiaan yang Adil dan Beradab",
+      "B": "Ketuhanan Yang Maha Esa",
+      "C": "Persatuan Indonesia",
+      "D": "Keadilan Sosial bagi Seluruh Rakyat Indonesia"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Contoh pengamalan sila kedua Pancasila di sekolah adalah...",
+    "opsi": {
+      "A": "Mengejek teman yang berbeda",
+      "B": "Menolong teman yang mengalami kesulitan",
+      "C": "Memaksakan pendapat kepada teman",
+      "D": "Tidak mau bekerja sama"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Sikap yang sesuai dengan sila ketiga Pancasila adalah...",
+    "opsi": {
+      "A": "Mengutamakan persatuan",
+      "B": "Memaksakan agama kepada orang lain",
+      "C": "Bersikap pilih kasih",
+      "D": "Tidak mau bermusyawarah"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Ketika memilih ketua kelas, sebaiknya siswa melakukan...",
+    "opsi": {
+      "A": "Musyawarah atau pemungutan suara",
+      "B": "Pemaksaan kehendak",
+      "C": "Pertengkaran",
+      "D": "Memilih berdasarkan kekayaan"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Contoh pengamalan sila kelima Pancasila di sekolah adalah...",
+    "opsi": {
+      "A": "Membagi tugas piket secara adil",
+      "B": "Memilih teman tertentu saja",
+      "C": "Mengganggu teman belajar",
+      "D": "Tidak mau berbagi"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Pancasila terdiri atas ... sila.",
+    "opsi": {
+      "A": "Tiga",
+      "B": "Empat",
+      "C": "Lima",
+      "D": "Enam"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Lambang sila pertama Pancasila adalah...",
+    "opsi": {
+      "A": "Rantai",
+      "B": "Pohon beringin",
+      "C": "Bintang",
+      "D": "Kepala banteng"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Rantai merupakan lambang sila ke-...",
+    "opsi": {
+      "A": "Satu",
+      "B": "Dua",
+      "C": "Tiga",
+      "D": "Lima"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Pohon beringin merupakan lambang sila ke-...",
+    "opsi": {
+      "A": "Satu",
+      "B": "Dua",
+      "C": "Tiga",
+      "D": "Empat"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Kepala banteng merupakan lambang sila ke-...",
+    "opsi": {
+      "A": "Dua",
+      "B": "Tiga",
+      "C": "Empat",
+      "D": "Lima"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Padi dan kapas merupakan lambang sila ke-...",
+    "opsi": {
+      "A": "Satu",
+      "B": "Tiga",
+      "C": "Empat",
+      "D": "Lima"
+    },
+    "jawaban": "D",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Berdoa sebelum belajar merupakan contoh pengamalan sila...",
+    "opsi": {
+      "A": "Pertama",
+      "B": "Kedua",
+      "C": "Ketiga",
+      "D": "Keempat"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Tidak membeda-bedakan teman berdasarkan suku merupakan pengamalan sila...",
+    "opsi": {
+      "A": "Pertama",
+      "B": "Kedua",
+      "C": "Ketiga",
+      "D": "Kelima"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Sikap menghargai martabat dan hak orang lain sesuai dengan nilai sila...",
+    "opsi": {
+      "A": "Pertama",
+      "B": "Kedua",
+      "C": "Ketiga",
+      "D": "Kelima"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Saat teman berbeda pendapat dalam diskusi, sikap yang tepat adalah...",
+    "opsi": {
+      "A": "Memarahinya",
+      "B": "Meninggalkan diskusi",
+      "C": "Menghargai pendapatnya",
+      "D": "Memaksakan pendapat sendiri"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Musyawarah untuk mencapai mufakat merupakan pengamalan sila ke-...",
+    "opsi": {
+      "A": "Satu",
+      "B": "Dua",
+      "C": "Empat",
+      "D": "Lima"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Jika hasil musyawarah telah disepakati, kita sebaiknya...",
+    "opsi": {
+      "A": "Melaksanakannya dengan tanggung jawab",
+      "B": "Menolaknya tanpa alasan",
+      "C": "Mengabaikannya",
+      "D": "Memaksakan keinginan sendiri"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Membantu orang tua membersihkan rumah merupakan contoh pengamalan Pancasila di...",
+    "opsi": {
+      "A": "Sekolah",
+      "B": "Rumah",
+      "C": "Tempat kerja",
+      "D": "Pasar"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Ketika melihat tetangga terkena musibah, tindakan yang sesuai nilai Pancasila adalah...",
+    "opsi": {
+      "A": "Membiarkannya",
+      "B": "Menertawakannya",
+      "C": "Memberikan bantuan sesuai kemampuan",
+      "D": "Menjauhinya"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Gotong royong membersihkan lingkungan merupakan contoh pengamalan nilai...",
+    "opsi": {
+      "A": "Persatuan dan kerja sama",
+      "B": "Permusuhan",
+      "C": "Individualisme",
+      "D": "Persaingan"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Sikap rela membantu teman tanpa membeda-bedakan merupakan contoh nilai...",
+    "opsi": {
+      "A": "Kemanusiaan",
+      "B": "Permusuhan",
+      "C": "Kesombongan",
+      "D": "Keegoisan"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Menghormati teman yang berbeda agama merupakan bentuk toleransi dalam kehidupan...",
+    "opsi": {
+      "A": "Bermasyarakat",
+      "B": "Sendiri",
+      "C": "Bersaing",
+      "D": "Berkelompok secara terbatas"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Contoh penerapan sila pertama di rumah adalah...",
+    "opsi": {
+      "A": "Rajin beribadah",
+      "B": "Bertengkar dengan saudara",
+      "C": "Memaksakan kehendak",
+      "D": "Tidak menghormati orang tua"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Contoh perilaku yang sesuai dengan sila kedua adalah...",
+    "opsi": {
+      "A": "Menghina teman",
+      "B": "Bersikap sopan kepada semua orang",
+      "C": "Membeda-bedakan teman",
+      "D": "Menyakiti orang lain"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Menjaga kerukunan antarteman merupakan pengamalan sila...",
+    "opsi": {
+      "A": "Pertama",
+      "B": "Kedua",
+      "C": "Ketiga",
+      "D": "Kelima"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Mendengarkan pendapat teman ketika berdiskusi merupakan pengamalan sila...",
+    "opsi": {
+      "A": "Pertama",
+      "B": "Kedua",
+      "C": "Ketiga",
+      "D": "Keempat"
+    },
+    "jawaban": "D",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Memberikan kesempatan yang sama kepada semua teman merupakan pengamalan sila...",
+    "opsi": {
+      "A": "Pertama",
+      "B": "Kedua",
+      "C": "Keempat",
+      "D": "Kelima"
+    },
+    "jawaban": "D",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Pancasila sebagai pandangan hidup bangsa berarti Pancasila menjadi...",
+    "opsi": {
+      "A": "Pedoman dalam kehidupan sehari-hari",
+      "B": "Hiasan negara",
+      "C": "Aturan permainan",
+      "D": "Lambang sekolah"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Sebagai pandangan hidup bangsa, Pancasila digunakan untuk...",
+    "opsi": {
+      "A": "Menentukan pedoman bersikap dan bertindak",
+      "B": "Membedakan warga negara",
+      "C": "Menghapus keberagaman",
+      "D": "Mementingkan kelompok sendiri"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Pancasila dapat menjadi pedoman dalam menghadapi perbedaan karena mengajarkan...",
+    "opsi": {
+      "A": "Perpecahan",
+      "B": "Persatuan dan toleransi",
+      "C": "Persaingan tanpa batas",
+      "D": "Kepentingan pribadi"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Jika terjadi perbedaan pendapat dalam keluarga, sebaiknya diselesaikan dengan...",
+    "opsi": {
+      "A": "Pertengkaran",
+      "B": "Musyawarah",
+      "C": "Pemaksaan",
+      "D": "Diam tanpa penyelesaian"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Sikap tidak memaksakan kehendak kepada orang lain sesuai dengan nilai...",
+    "opsi": {
+      "A": "Musyawarah",
+      "B": "Permusuhan",
+      "C": "Keegoisan",
+      "D": "Kesombongan"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Ketika kerja kelompok, setiap anggota sebaiknya...",
+    "opsi": {
+      "A": "Bekerja sendiri-sendiri",
+      "B": "Membiarkan satu orang bekerja",
+      "C": "Bekerja sama dan bertanggung jawab",
+      "D": "Memilih pekerjaan yang mudah saja"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Menggunakan fasilitas umum dengan baik merupakan bentuk tanggung jawab sebagai...",
+    "opsi": {
+      "A": "Warga masyarakat",
+      "B": "Pedagang",
+      "C": "Guru",
+      "D": "Pemimpin"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Contoh pengamalan Pancasila dalam kehidupan bermasyarakat adalah...",
+    "opsi": {
+      "A": "Ikut kerja bakti",
+      "B": "Mengganggu tetangga",
+      "C": "Tidak peduli lingkungan",
+      "D": "Menyebarkan permusuhan"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Menghargai hasil karya orang lain merupakan pengamalan nilai...",
+    "opsi": {
+      "A": "Kemanusiaan dan keadilan",
+      "B": "Permusuhan",
+      "C": "Keegoisan",
+      "D": "Perpecahan"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Salah satu nilai yang terkandung dalam Pancasila adalah...",
+    "opsi": {
+      "A": "Gotong royong",
+      "B": "Permusuhan",
+      "C": "Diskriminasi",
+      "D": "Keserakahan"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Menghormati guru ketika sedang menjelaskan pelajaran merupakan sikap...",
+    "opsi": {
+      "A": "Tidak peduli",
+      "B": "Sopan dan menghargai orang lain",
+      "C": "Egois",
+      "D": "Tidak bertanggung jawab"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Jika seorang teman tidak memiliki alat tulis, sikap yang sesuai Pancasila adalah...",
+    "opsi": {
+      "A": "Mengejeknya",
+      "B": "Membiarkannya",
+      "C": "Meminjamkan alat tulis jika mampu",
+      "D": "Menyuruhnya pulang"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Sikap adil kepada semua teman berarti...",
+    "opsi": {
+      "A": "Memperlakukan teman sesuai haknya",
+      "B": "Hanya membantu teman dekat",
+      "C": "Mendahulukan teman kaya",
+      "D": "Membeda-bedakan teman"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Menjaga nama baik sekolah merupakan salah satu bentuk pengamalan nilai...",
+    "opsi": {
+      "A": "Persatuan dan tanggung jawab",
+      "B": "Permusuhan",
+      "C": "Keegoisan",
+      "D": "Ketidakadilan"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Contoh sikap yang dapat memperkuat persatuan di sekolah adalah...",
+    "opsi": {
+      "A": "Berteman tanpa membeda-bedakan",
+      "B": "Membentuk kelompok untuk mengejek teman",
+      "C": "Menolak teman yang berbeda suku",
+      "D": "Bersaing secara tidak sehat"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Pancasila sebagai pandangan hidup membantu bangsa Indonesia dalam...",
+    "opsi": {
+      "A": "Menentukan sikap dan perilaku yang sesuai nilai bangsa",
+      "B": "Menghilangkan perbedaan budaya",
+      "C": "Mengutamakan kepentingan pribadi",
+      "D": "Menjauhi kehidupan bermasyarakat"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Ketika memperoleh keputusan hasil musyawarah yang tidak sesuai keinginan, kita sebaiknya...",
+    "opsi": {
+      "A": "Tetap menghargai keputusan bersama",
+      "B": "Marah kepada semua orang",
+      "C": "Memaksakan keinginan sendiri",
+      "D": "Mengajak orang lain bertengkar"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Sikap menghargai keberagaman suku, agama, dan budaya dapat menciptakan...",
+    "opsi": {
+      "A": "Perpecahan",
+      "B": "Persatuan dan kerukunan",
+      "C": "Permusuhan",
+      "D": "Persaingan"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Mengutamakan kepentingan bersama daripada kepentingan pribadi merupakan sikap yang sesuai dengan nilai...",
+    "opsi": {
+      "A": "Persatuan dan gotong royong",
+      "B": "Keegoisan",
+      "C": "Kesombongan",
+      "D": "Permusuhan"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Saat melihat teman melakukan kesalahan, sebaiknya kita...",
+    "opsi": {
+      "A": "Mengejeknya di depan teman-teman",
+      "B": "Menegur dengan sopan dan membantu memperbaikinya",
+      "C": "Menyebarkan kesalahannya",
+      "D": "Membiarkannya selalu salah"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Salah satu manfaat menerapkan nilai-nilai Pancasila dalam kehidupan sehari-hari adalah...",
+    "opsi": {
+      "A": "Menciptakan kehidupan yang rukun",
+      "B": "Menimbulkan pertengkaran",
+      "C": "Membuat orang saling menjauh",
+      "D": "Mengutamakan kepentingan pribadi"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Perilaku yang menunjukkan keadilan dalam keluarga adalah...",
+    "opsi": {
+      "A": "Membagi tugas rumah secara adil",
+      "B": "Membebankan semua pekerjaan kepada satu orang",
+      "C": "Memilih kasih kepada saudara",
+      "D": "Tidak mau membantu keluarga"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Jika ada teman yang berbeda agama, kita harus...",
+    "opsi": {
+      "A": "Memaksanya mengikuti agama kita",
+      "B": "Menghormati keyakinannya",
+      "C": "Menjauhinya",
+      "D": "Mengejek cara ibadahnya"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Nilai Pancasila sebaiknya tidak hanya dihafalkan, tetapi juga...",
+    "opsi": {
+      "A": "Diamalkan dalam kehidupan sehari-hari",
+      "B": "Ditulis berulang kali",
+      "C": "Dijadikan hiasan",
+      "D": "Dihafalkan tanpa dipahami"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Sikap bekerja sama membersihkan kelas mencerminkan nilai...",
+    "opsi": {
+      "A": "Gotong royong",
+      "B": "Keegoisan",
+      "C": "Persaingan",
+      "D": "Permusuhan"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Pancasila sebagai pandangan hidup bangsa berarti setiap warga negara hendaknya...",
+    "opsi": {
+      "A": "Menjadikan nilai Pancasila sebagai pedoman hidup",
+      "B": "Mengabaikan nilai Pancasila",
+      "C": "Mementingkan diri sendiri",
+      "D": "Menolak keberagaman"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  }
+]
