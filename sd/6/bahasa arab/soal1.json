@@ -1,1 +1,222 @@
-
+[
+  {
+    "pertanyaan": "Apa arti kata Arab 'صَبَاح'?",
+    "opsi": {
+      "A": "Pagi",
+      "B": "Siang",
+      "C": "Sore",
+      "D": "Malam"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Apa arti kata Arab 'ظُهْر'?",
+    "opsi": {
+      "A": "Pagi",
+      "B": "Siang",
+      "C": "Sore",
+      "D": "Malam"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Apa arti kata Arab 'عَصْر'?",
+    "opsi": {
+      "A": "Pagi",
+      "B": "Siang",
+      "C": "Sore",
+      "D": "Malam"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Apa arti kata Arab 'مَغْرِب'?",
+    "opsi": {
+      "A": "Pagi",
+      "B": "Siang",
+      "C": "Sore",
+      "D": "Magrib"
+    },
+    "jawaban": "D",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Apa arti kata Arab 'لَيْل'?",
+    "opsi": {
+      "A": "Pagi",
+      "B": "Siang",
+      "C": "Malam",
+      "D": "Sore"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Apa arti kata Arab 'سَاعَة'?",
+    "opsi": {
+      "A": "Menit",
+      "B": "Jam",
+      "C": "Hari",
+      "D": "Minggu"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Apa arti kata Arab 'دَقِيقَة'?",
+    "opsi": {
+      "A": "Jam",
+      "B": "Hari",
+      "C": "Menit",
+      "D": "Detik"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Apa arti kata Arab 'وَقْت'?",
+    "opsi": {
+      "A": "Waktu",
+      "B": "Jam",
+      "C": "Menit",
+      "D": "Pagi"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Angka Arab '١' berarti...",
+    "opsi": {
+      "A": "Satu",
+      "B": "Dua",
+      "C": "Tiga",
+      "D": "Empat"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Angka Arab '٥' berarti...",
+    "opsi": {
+      "A": "Tiga",
+      "B": "Empat",
+      "C": "Lima",
+      "D": "Enam"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Angka Arab '١٠' berarti...",
+    "opsi": {
+      "A": "Delapan",
+      "B": "Sembilan",
+      "C": "Sepuluh",
+      "D": "Sebelas"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Angka Arab '١٥' berarti...",
+    "opsi": {
+      "A": "Lima belas",
+      "B": "Enam belas",
+      "C": "Tujuh belas",
+      "D": "Delapan belas"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Angka Arab '٢٠' berarti...",
+    "opsi": {
+      "A": "Sepuluh",
+      "B": "Dua puluh",
+      "C": "Dua belas",
+      "D": "Tiga puluh"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Angka Arab '٣٠' berarti...",
+    "opsi": {
+      "A": "Tiga belas",
+      "B": "Dua puluh",
+      "C": "Tiga puluh",
+      "D": "Dua puluh tiga"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Apa arti kalimat Arab 'يَذْهَبُ إِلَى الْمَدْرَسَةِ'?",
+    "opsi": {
+      "A": "Dia pergi ke sekolah",
+      "B": "Dia pulang dari sekolah",
+      "C": "Dia belajar di rumah",
+      "D": "Dia pergi ke pasar"
+    },
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Bahasa Arab dari 'dia' (laki-laki) adalah...",
+    "opsi": {
+      "A": "أَنَا",
+      "B": "أَنْتَ",
+      "C": "هُوَ",
+      "D": "نَحْنُ"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Bahasa Arab dari 'kamu' (laki-laki) adalah...",
+    "opsi": {
+      "A": "هُوَ",
+      "B": "أَنْتَ",
+      "C": "أَنَا",
+      "D": "هِيَ"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Ungkapan bahasa Arab yang tepat untuk memberi salam adalah...",
+    "opsi": {
+      "A": "مَرْحَبًا",
+      "B": "مَعَ السَّلَامَةِ",
+      "C": "السَّلَامُ عَلَيْكُمْ",
+      "D": "شُكْرًا"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Apa arti 'مَرْحَبًا'?",
+    "opsi": {
+      "A": "Selamat tinggal",
+      "B": "Halo",
+      "C": "Terima kasih",
+      "D": "Sampai jumpa"
+    },
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Kalimat yang tepat untuk menanyakan waktu dalam bahasa Arab adalah...",
+    "opsi": {
+      "A": "مَا اسْمُكَ؟",
+      "B": "كَيْفَ حَالُكَ؟",
+      "C": "كَمِ السَّاعَةُ؟",
+      "D": "أَيْنَ بَيْتُكَ؟"
+    },
+    "jawaban": "C",
+    "gambar": ""
+  }
+]
