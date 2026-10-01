@@ -108,7 +108,7 @@
     "gambar": ""
   },
   {
-    "pertanyaan": "We studied English ___ yesterday.",
+    "pertanyaan": "We studied English yesterday ___",
     "opsi": {"A":"morning","B":"tomorrow","C":"next","D":"ago"},
     "jawaban": "A",
     "gambar": ""
