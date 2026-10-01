@@ -1,1 +1,122 @@
-
+[
+  {
+    "pertanyaan": "What did Rina do yesterday?",
+    "opsi": {"A":"She plays football","B":"She played football","C":"She is playing football","D":"She will play football"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Which sentence tells about a past activity?",
+    "opsi": {"A":"I eat breakfast every day","B":"I am eating breakfast","C":"I ate breakfast this morning","D":"I will eat breakfast tomorrow"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "What is the past form of 'go'?",
+    "opsi": {"A":"Goed","B":"Gone","C":"Went","D":"Going"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "What did Andi do last Sunday?",
+    "opsi": {"A":"He visited his grandmother","B":"He visits his grandmother","C":"He is visiting his grandmother","D":"He will visit his grandmother"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Which word is an adverb of time for a past activity?",
+    "opsi": {"A":"Tomorrow","B":"Yesterday","C":"Now","D":"Next week"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "We ___ football yesterday.",
+    "opsi": {"A":"play","B":"plays","C":"played","D":"playing"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Which sentence is correct?",
+    "opsi": {"A":"She watched TV last night","B":"She watch TV last night","C":"She watches TV last night","D":"She watching TV last night"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "What does 'last night' mean?",
+    "opsi": {"A":"Malam ini","B":"Besok malam","C":"Tadi malam","D":"Minggu depan"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "What did Budi do two days ago?",
+    "opsi": {"A":"He cleaned his room","B":"He cleans his room","C":"He is cleaning his room","D":"He will clean his room"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Which one is NOT an adverb of time for the past?",
+    "opsi": {"A":"Yesterday","B":"Last week","C":"Tomorrow","D":"Two days ago"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "I ___ my homework last night.",
+    "opsi": {"A":"do","B":"did","C":"does","D":"doing"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "They went to the zoo ___ Sunday.",
+    "opsi": {"A":"next","B":"last","C":"tomorrow","D":"now"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "What is the past form of 'eat'?",
+    "opsi": {"A":"Eated","B":"Eating","C":"Ate","D":"Eats"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Siti ___ a book yesterday afternoon.",
+    "opsi": {"A":"read","B":"reads","C":"reading","D":"will read"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Which phrase shows an activity in the past?",
+    "opsi": {"A":"Next month","B":"Tomorrow morning","C":"Last year","D":"Right now"},
+    "jawaban": "C",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "My father ___ a car last week.",
+    "opsi": {"A":"wash","B":"washed","C":"washes","D":"washing"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "What did you do last weekend?",
+    "opsi": {"A":"I visit my uncle","B":"I visited my uncle","C":"I am visiting my uncle","D":"I will visit my uncle"},
+    "jawaban": "B",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "Which sentence uses 'ago' correctly?",
+    "opsi": {"A":"I played football two days ago","B":"I play football two days ago","C":"I will play football two days ago","D":"I am play football two days ago"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "We studied English ___ yesterday.",
+    "opsi": {"A":"morning","B":"tomorrow","C":"next","D":"ago"},
+    "jawaban": "A",
+    "gambar": ""
+  },
+  {
+    "pertanyaan": "What did the students do last Monday?",
+    "opsi": {"A":"They studied at school","B":"They study at school","C":"They are studying at school","D":"They will study at school"},
+    "jawaban": "A",
+    "gambar": ""
+  }
+]
