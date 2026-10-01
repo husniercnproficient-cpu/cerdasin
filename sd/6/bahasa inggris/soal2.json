@@ -1,1 +1,22 @@
-
+[
+  {"pertanyaan": "Yesterday, I ___ football with my friends.", "opsi": {"A": "played", "B": "play", "C": "playing", "D": "plays"}, "jawaban": "A", "gambar": ""},
+  {"pertanyaan": "She ___ to school by bus last Monday.", "opsi": {"A": "go", "B": "went", "C": "goes", "D": "going"}, "jawaban": "B", "gambar": ""},
+  {"pertanyaan": "We ___ a delicious cake last night.", "opsi": {"A": "eat", "B": "eats", "C": "ate", "D": "eating"}, "jawaban": "C", "gambar": ""},
+  {"pertanyaan": "My father ___ a new bicycle two days ago.", "opsi": {"A": "buy", "B": "buys", "C": "buying", "D": "bought"}, "jawaban": "D", "gambar": ""},
+  {"pertanyaan": "Bentuk lampau (past tense) dari kata 'watch' adalah...", "opsi": {"A": "watched", "B": "watching", "C": "watches", "D": "watchs"}, "jawaban": "A", "gambar": ""},
+  {"pertanyaan": "Bentuk lampau (past tense) dari kata 'go' adalah...", "opsi": {"A": "goed", "B": "went", "C": "going", "D": "goes"}, "jawaban": "B", "gambar": ""},
+  {"pertanyaan": "Bentuk lampau (past tense) dari kata 'have' adalah...", "opsi": {"A": "haves", "B": "haved", "C": "had", "D": "having"}, "jawaban": "C", "gambar": ""},
+  {"pertanyaan": "Manakah yang termasuk adverb of time untuk kegiatan lampau?", "opsi": {"A": "tomorrow", "B": "now", "C": "next week", "D": "yesterday"}, "jawaban": "D", "gambar": ""},
+  {"pertanyaan": "Manakah yang termasuk adverb of time untuk kegiatan lampau?", "opsi": {"A": "last month", "B": "next month", "C": "tomorrow", "D": "tonight"}, "jawaban": "A", "gambar": ""},
+  {"pertanyaan": "I visited my grandmother ___ Sunday.", "opsi": {"A": "next", "B": "last", "C": "every", "D": "tomorrow"}, "jawaban": "B", "gambar": ""},
+  {"pertanyaan": "They went to the zoo three days ___.", "opsi": {"A": "last", "B": "yesterday", "C": "ago", "D": "then"}, "jawaban": "C", "gambar": ""},
+  {"pertanyaan": "Apa arti 'two weeks ago'?", "opsi": {"A": "Dua minggu lagi", "B": "Dua minggu depan", "C": "Setiap dua minggu", "D": "Dua minggu yang lalu"}, "jawaban": "D", "gambar": ""},
+  {"pertanyaan": "Did you ___ your homework yesterday?", "opsi": {"A": "do", "B": "did", "C": "does", "D": "done"}, "jawaban": "A", "gambar": ""},
+  {"pertanyaan": "I ___ not go to school last Friday because I was sick.", "opsi": {"A": "do", "B": "did", "C": "does", "D": "am"}, "jawaban": "B", "gambar": ""},
+  {"pertanyaan": "Apa arti 'yesterday morning'?", "opsi": {"A": "Besok pagi", "B": "Pagi ini", "C": "Kemarin pagi", "D": "Setiap pagi"}, "jawaban": "C", "gambar": ""},
+  {"pertanyaan": "He didn't ___ TV last night.", "opsi": {"A": "watched", "B": "watches", "C": "watching", "D": "watch"}, "jawaban": "D", "gambar": ""},
+  {"pertanyaan": "We ___ very happy at the birthday party last night.", "opsi": {"A": "were", "B": "was", "C": "are", "D": "is"}, "jawaban": "A", "gambar": ""},
+  {"pertanyaan": "My mother ___ in the kitchen yesterday afternoon.", "opsi": {"A": "cook", "B": "cooked", "C": "cooks", "D": "cooking"}, "jawaban": "B", "gambar": ""},
+  {"pertanyaan": "Pilih susunan kalimat yang benar!", "opsi": {"A": "Last week visited I my aunt.", "B": "I last week visited my aunt.", "C": "I visited my aunt last week.", "D": "Visited I my aunt last week."}, "jawaban": "C", "gambar": ""},
+  {"pertanyaan": "Which sentence is correct?", "opsi": {"A": "She goes to the market yesterday.", "B": "She go to the market last Sunday.", "C": "She buy fruits last Sunday.", "D": "She bought fruits last Sunday."}, "jawaban": "D", "gambar": ""}
+]
