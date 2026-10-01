@@ -1,1 +1,22 @@
-
+[
+  {"pertanyaan": "Jika temanmu mengucapkan 'السَّلَامُ عَلَيْكُمْ', maka jawabannya adalah...", "opsi": {"A": "وَعَلَيْكُمُ السَّلَامُ", "B": "صَبَاحُ الْخَيْرِ", "C": "مَعَ السَّلَامَةِ", "D": "شُكْرًا"}, "jawaban": "A", "gambar": ""},
+  {"pertanyaan": "Apa arti 'صَبَاحُ الْخَيْرِ'?", "opsi": {"A": "Selamat malam", "B": "Selamat pagi", "C": "Selamat sore", "D": "Selamat tinggal"}, "jawaban": "B", "gambar": ""},
+  {"pertanyaan": "Apa arti 'مَعَ السَّلَامَةِ'?", "opsi": {"A": "Selamat pagi", "B": "Terima kasih", "C": "Selamat tinggal", "D": "Selamat datang"}, "jawaban": "C", "gambar": ""},
+  {"pertanyaan": "Apa arti kata 'هُوَ'?", "opsi": {"A": "Saya", "B": "Kamu (laki-laki)", "C": "Kamu (perempuan)", "D": "Dia (laki-laki)"}, "jawaban": "D", "gambar": ""},
+  {"pertanyaan": "Apa arti kata 'أَنْتَ'?", "opsi": {"A": "Kamu (laki-laki)", "B": "Dia (laki-laki)", "C": "Saya", "D": "Kami"}, "jawaban": "A", "gambar": ""},
+  {"pertanyaan": "Angka Arab '٣' dibaca...", "opsi": {"A": "اثْنَانِ", "B": "ثَلَاثَةٌ", "C": "أَرْبَعَةٌ", "D": "وَاحِدٌ"}, "jawaban": "B", "gambar": ""},
+  {"pertanyaan": "Angka 15 dalam bahasa Arab dibaca...", "opsi": {"A": "ثَلَاثَةَ عَشَرَ", "B": "خَمْسُونَ", "C": "خَمْسَةَ عَشَرَ", "D": "خَمْسَةٌ وَعِشْرُونَ"}, "jawaban": "C", "gambar": ""},
+  {"pertanyaan": "Angka 20 dalam bahasa Arab dibaca...", "opsi": {"A": "ثَلَاثُونَ", "B": "عَشَرَةٌ", "C": "اثْنَا عَشَرَ", "D": "عِشْرُونَ"}, "jawaban": "D", "gambar": ""},
+  {"pertanyaan": "Angka 30 dalam bahasa Arab dibaca...", "opsi": {"A": "ثَلَاثُونَ", "B": "عِشْرُونَ", "C": "ثَلَاثَةٌ", "D": "أَرْبَعُونَ"}, "jawaban": "A", "gambar": ""},
+  {"pertanyaan": "'سَبْعَةٌ' adalah angka...", "opsi": {"A": "6", "B": "7", "C": "8", "D": "9"}, "jawaban": "B", "gambar": ""},
+  {"pertanyaan": "Apa arti kata 'سَاعَةٌ'?", "opsi": {"A": "Hari", "B": "Menit", "C": "Jam", "D": "Detik"}, "jawaban": "C", "gambar": ""},
+  {"pertanyaan": "Apa arti kata 'دَقِيقَةٌ'?", "opsi": {"A": "Jam", "B": "Waktu", "C": "Hari", "D": "Menit"}, "jawaban": "D", "gambar": ""},
+  {"pertanyaan": "Apa arti kata 'وَقْتٌ'?", "opsi": {"A": "Waktu", "B": "Jam", "C": "Menit", "D": "Pagi"}, "jawaban": "A", "gambar": ""},
+  {"pertanyaan": "Apa arti kalimat 'كَمِ السَّاعَةُ؟'", "opsi": {"A": "Siapa namamu?", "B": "Jam berapa sekarang?", "C": "Apa kabar?", "D": "Kamu dari mana?"}, "jawaban": "B", "gambar": ""},
+  {"pertanyaan": "Apa arti 'السَّاعَةُ الثَّامِنَةُ'?", "opsi": {"A": "Jam enam", "B": "Jam tujuh", "C": "Jam delapan", "D": "Jam sembilan"}, "jawaban": "C", "gambar": ""},
+  {"pertanyaan": "Apa arti kalimat 'يَذْهَبُ إِلَى الْمَدْرَسَةِ'?", "opsi": {"A": "Dia pulang dari sekolah", "B": "Dia makan di sekolah", "C": "Dia belajar di rumah", "D": "Dia pergi ke sekolah"}, "jawaban": "D", "gambar": ""},
+  {"pertanyaan": "Apa arti kalimat 'هُوَ يَرْجِعُ إِلَى الْبَيْتِ'?", "opsi": {"A": "Dia pulang ke rumah", "B": "Dia pergi ke pasar", "C": "Dia berangkat ke sekolah", "D": "Dia tidur di kamar"}, "jawaban": "A", "gambar": ""},
+  {"pertanyaan": "Apa arti kata 'صَبَاحٌ'?", "opsi": {"A": "Malam", "B": "Pagi", "C": "Sore", "D": "Siang"}, "jawaban": "B", "gambar": ""},
+  {"pertanyaan": "Apa arti kata 'عَصْرٌ'?", "opsi": {"A": "Pagi", "B": "Siang", "C": "Sore", "D": "Malam"}, "jawaban": "C", "gambar": ""},
+  {"pertanyaan": "Kata bahasa Arab untuk 'malam' adalah...", "opsi": {"A": "صَبَاحٌ", "B": "ظُهْرٌ", "C": "عَصْرٌ", "D": "لَيْلٌ"}, "jawaban": "D", "gambar": ""}
+]
